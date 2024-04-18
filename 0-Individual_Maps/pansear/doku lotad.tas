@@ -1,0 +1,176 @@
+# DOKU
+# https://gamebanana.com/mods/438235
+
+RecordCount: 169
+
+console load pansear/doku/doku
+   1
+
+#Start
+  36
+
+#lvl_springtroduction
+ 106
+   7,L
+  15
+  26,R
+  15,R,X
+   4,R
+  33
+   3,R,J
+  47,R
+  15,R,X
+  10,R
+  15,R,X
+  12,R
+  20
+   2,R
+   3,R,J
+  41,R
+  15,R,X
+   1,R
+  40
+
+#lvl_1
+   3,R
+  20
+  13,R
+   5,R,J
+  22,R
+  10,R,D,J
+   4,R
+   9,R,D,J
+   1
+   7,R,J
+   2,R
+  63
+   6,J
+  13,U,X
+   2,R
+  12,R,X
+  29,L
+  22,D,X
+  11,R
+  12,R,X
+   9,L
+  12,U,X
+  13,R
+   1,L
+  14,L,D,X
+   4,R
+  21,R,D,X
+   3,L
+  14,R,U,X
+   4,R
+  21,R,D,X
+  18,R,C
+  15,D,X
+  16,D
+  17
+  17,R
+   2,R,J
+  35,R
+  40
+
+#lvl_2
+  16,R
+   4,R,J
+  18,R
+  24
+   8,R
+  15,R,X
+  15,U,C
+   6,R
+  15,L,D,X
+  24,R,C
+   3,L
+  15,D,X
+   4,D
+  13,R
+   9,L
+  20,R,U,X
+  14,L,U,C
+   8,R
+  17,R,X
+  25,L,C
+  15,L,X
+  13,L,U,C
+  11,R
+  10,L
+  25,L,D,X
+   3,R
+  14,R,X
+   5,R
+  14,R,X
+   9,R
+  15,U,X
+  17
+   9,R
+   4,R,J
+   2,R
+   7,R,D,X
+   1,R,J
+   5,R
+  40
+
+#lvl_3
+  11,R
+   5,R,J
+  28,R
+   2,R,J
+   7,J
+  10,R
+  14
+  33
+   4,R
+  17,R,X
+  20,D,C
+   5,L
+  17,R,U,X
+  25,R,C
+  15,L,X
+  23,R,D,C
+  15,D,X
+   6,R,D
+   2,L
+  17,R,U,X
+   8,L
+   8,R
+  15,R,X
+  10,U,C
+   5,R
+  22,R,D,X
+  16,R,C
+  17,R,U,X
+   1,L
+  15,D,X
+   8,L,D
+  33,R
+  16
+   5,D
+   6
+   5,D
+   5
+   6,D
+  25
+   2,R
+   6,R,D,X
+   2,R,J
+  21,R
+  40
+
+#lvl_heart
+  16,R
+  34
+   5,R
+   6,R,J
+  22,R
+   9,R,J
+  14,R,X
+  25,R
+   4,L
+  51,L,D,X
+   1,L,J
+  87,R
+
+ChapterTime: 0:35.938(2114)

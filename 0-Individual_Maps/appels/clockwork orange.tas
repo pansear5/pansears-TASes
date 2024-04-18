@@ -1,0 +1,80 @@
+RecordCount: 345
+
+console load Appels/Contestweeksubmission/contestweekpogey 
+   1
+#Start
+  84
+#lvl_INTRO
+  14,R,U,X
+  38,R,C
+   9,R,U,X
+   1,J,G
+   1,J
+   1,R,J
+   2,R
+   4,R,J,G
+  13,R
+  14,R,X
+  40
+
+#lvl_the epic room
+   1,R,X
+  15,R,C
+  19,R,D,X
+   4,Z
+   9,R,J
+   3,R
+  14,R,U,Z
+  36,R,C
+  15,R,D,X
+  24,R
+   7,R,J
+  27,R
+  14,R,J
+   3,R
+  16,R,U,X
+  30,R,C
+  15,R,U,Z
+  15,U,X
+  17,R
+  23,R,X
+  15,R,C
+  15,D,X
+   3,D
+  13,L,D
+   5,R
+  16,R,X
+  14,R,C
+   4,J,G
+   5,R,J
+  14,R
+ 113,D,X
+  13,L,D,C
+   8,R,D
+  15,R,D,X
+   2,R
+  12,L,D,X
+ 129,U,C
+  62,R,X
+  10,X
+  15,R,D,C
+   7,R
+  12,R,Z
+  79,R,U,X
+  20
+  15,R,X
+  49,R
+  15,R,Z
+  52,R
+  13,D,C
+   1,L,K
+   1
+  36,D,X
+ 192,R,C
+  32,R,C
+  16,R,U,X
+  15,U,C
+ 136,L,D
+
+#0:25.449(1497)
+

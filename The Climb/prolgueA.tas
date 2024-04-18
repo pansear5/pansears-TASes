@@ -1,0 +1,141 @@
+# My World
+# https://gamebanana.com/mods/150758
+
+RecordCount: 215
+
+console load Amber/The_Climb/0-prologue
+   1
+
+#Start
+ 110
+   1,S
+   1,D,J
+  34
+#lvl_o-2 (0)
+   2,L
+   1,L,J
+  14,L
+  40
+
+#lvl_o-1 
+   1
+   1,S
+   1,D,J
+  34
+   4,R,Z
+   1,R,J
+  40
+
+#lvl_o-2
+   4,R
+   1,R,J
+   2,R
+   1,R,J
+   7,R
+  20,R,J
+   2,R
+   1,R,K,G
+   2,L
+   2,R
+   1,R,J,G
+   1,R,K,G
+  11,R
+   1,R,J
+  14,R
+  23,R,J
+  12,R,K,G
+   6,R,J,G
+   3,L,J
+   2,R,J
+   1,R,K,G
+   1,R,J,G
+  13,R
+   1,J
+   5,R
+  13
+   4
+   4,L
+  17
+  14,R,Z
+   1,R,J
+  20,R,D,X
+   1,R,J
+  14,R
+   1,R,J
+   9,R,K,G
+   6,R,J,G
+   8,R,K,G
+   5,R,J,G
+   7,R
+   1,R,J
+   5,R
+   4,R,J
+   6,R
+  40
+
+#lvl_i-1 
+   1,R
+  11,R,J
+   5,R
+   1,R,J
+   2,R
+  12,R,D,X
+   1,R,J,G
+  11,R
+   1,R,J
+  14,R,D,C
+   1,S
+   1,D,J
+  34
+   4,R,J
+  13,R
+   8,R,U,Z
+  40
+   6,R,U,Z
+   1,R,J
+   5,U,X
+  13,R,J
+  11,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  10,R,D,X
+   2,R,J
+   2,R
+   2,R,J
+   2,R
+  40
+
+#lvl_i-4
+   2,R
+   1
+   8,D
+  28,R,D,X
+  14,R,C
+  12,R,J
+  16,U,X
+  17,U,C
+  37
+  15,L,U,X
+  14,L,C
+   1,R,J
+  14,U,Z
+   9,J
+ 135
+  40
+
+#lvl_o-4
+  68
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  11,R,D,X
+   1,R,J
+   7,R
+   1,N
+
+ChapterTime: 0:19.431(1143)

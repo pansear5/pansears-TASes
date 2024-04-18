@@ -1,0 +1,186 @@
+# the road less travelled
+# https://gamebanana.com/mods/340102
+
+RecordCount: 189
+
+Set, SuperDashing, true
+console load trlt/xolimono/trlt
+   1
+
+#Start
+  61
+
+#lvl_trlt-01
+   6,R,U,X
+   2,R
+   1,R,U
+   9,R
+   2,R,D
+   1,R,J
+  15,R,D,X
+   5,R,U,C
+   1,R
+   2,R,U
+  12,R,D
+
+   5,R,U,X
+   7,R,D
+   3,R
+   9,R,U,X
+  12,R
+   2,R,D
+  13,R
+   9,R,D
+
+   6,R,U,X
+   3,R
+  40
+
+#lvl_trlt-01a
+  10,R
+   9,R,D
+stunpause simulate
+   1,R,D
+   4,R
+   1,R,J
+   5,R
+endstunpause
+  11,R
+   5,R,U,Z
+   1,R
+   2,R,U
+   1,R
+   1,R,U
+   4,R,D
+   1,R
+   4,R,D
+   1,R
+   2,R,D
+   7,R,U,X
+   4,R
+  40
+   5,R
+   5,R,D
+   4,R
+   8,R,U,X
+   5,R,D
+   1,R
+  13,R,D
+   5,R,U,X
+  40
+
+#lvl_trlt-02
+   5,R,U,X
+   3,R
+   5,R,D
+   1,R
+   5,R,D
+   1,R
+   1
+  10,R,D
+   1,R
+   9,R,U,X
+  10,R,D
+   5,R,U,X
+   4,R
+  40
+
+#lvl_trlt-07b
+   3,R
+   2,R,D
+   6,R
+   4,R,D
+   3,R
+  12,R,Z
+   4,R,D
+   6,R
+   5,R,U,Z
+   1,R
+  40
+
+#lvl_trlt-03
+   6,R,U
+  10,R
+   8,R,D
+  36,D,X
+  40
+
+
+5000
+
+
+
+
+
+   5,R,U,X
+   5,R,D
+   5,R
+
+
+   1,R
+
+   5,R,D,X
+   3,D
+  40
+
+   1,D
+  50,R,U,X
+
+
+  50,R,D,X
+  50,R,J
+
+   5,R,U,X
+ 350,R,D
+
+
+
+   5,R,U,X
+   6,R,D
+  40
+
+#lvl_trlt-02a
+   2,R,D
+   1,R
+   6,R
+  11,R,U,Z
+  50,R,D
+
+
+  50,R,J
+
+
+   5,R
+  10,R,Z
+   6,R,U
+ 500,R,D
+
+
+
+  10,R,D
+   4,R
+
+
+
+ 500,R,D,J
+
+
+   8,R,U,X
+  21,R,D
+  50,R,U,Z
+
+
+   7,R,U,X
+   4,R
+   7,R,D
+   2,R
+  50,R,D
+
+
+  10,R
+   2,R,D
+   2,R
+  31,R,D
+   2,R
+  50,R,D
+  50,R,K,G

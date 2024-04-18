@@ -1,0 +1,186 @@
+RecordCount: 670
+console load pansear/shrimpspecial/shrimpspecial
+Unsafe
+   1
+
+#Start
+  86
+
+#lvl_the intro room
+   7,R,J
+  10,R,X
+   7,R,J
+   6,R,Z
+   8,R,J
+   3,R
+   1,R,J
+   3,R,K
+  15,R,D,X
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_the shirmp tutorial....
+   9,R,D,X
+   1,R,J
+  22,R,D
+   9,L,X
+  34,R,G
+  23,R,U,X
+  15,L,C
+   9,D,X
+   6,L
+  15,R,D,X
+  16,R
+   4,R,Z
+   1,R,J
+  12,R
+   1,R,J
+   7,R,U,X
+  40
+
+#lvl_so shrimpy. 
+   8,R,J
+   4,R
+   3,R,J
+   7,R
+  15,U,Z
+   6,L
+  13,R,D
+  15,R,D,X
+   5,D
+   9,R,D
+   1
+   1,R
+   1,D
+   1,R,J,G
+   2,R,K,G
+  13,R
+  15,L,U,X
+  15,R,U,C
+   5,R
+   1,J
+   4,L
+   1,L,J,G
+   8,L,K,G
+   1,J,G
+   1,R,J
+   1,L,J
+   1,K,G
+   2,R
+   2,R
+  14,R,D,Z
+   1,R,J,G
+  13,R
+  15,R,D,Z
+   2,R,D
+  15,U,X
+   6,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+   5,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   1,R
+  17,R,D,X
+   1,R,J
+  12,R,D,X
+  40
+
+#lvl_shiom
+   2,R,D,X
+   1,R,J
+  11,R,D,X
+   4,R,J
+  11,U,X
+  41,R,G
+   3,L,D
+   2,R,D
+   2,R
+   3,L
+  10,R,Z
+  12,R,X
+  33,R,G
+  15,R,X
+  17,R
+   6,R,D
+  15,R,Z
+   2,R
+  12,L
+   6,L,D
+   1,R
+   2,R,D
+   6,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   1,R
+  17,R,D,X
+   1,R,J
+   1,R
+   1,R,K,G
+  12,R
+   3,R,J
+   2,R,D
+  40
+
+#lvl_too shrimple
+   4,R,D
+   4,R,J
+  21,R,D,X
+   1,L,J
+   4,L,J
+   3,L
+  15,U,X
+   9,L
+   1,L,J,G
+  10,L
+   3,R
+  11,R,D,X
+  20,R,J
+  14,R,U,Z
+  24,R,D
+   7,D
+   3,R,D
+   1,R,D
+   1,D
+   6,R,D
+  15,R,Z
+  11,R,X
+  24,L,G
+   9,L,U,Z
+   6,R,U
+   5,U
+   3,R,U
+   3,R
+  14,R,X
+  12,R,J
+   6,R
+   1,R,K,G
+   5,R,Z
+   1,R,J
+   7,R
+   5,R,J
+  16,R,U,X
+   3,R,J
+  40
+
+#lvl_heart
+   9,R,J
+  14,R,Z
+   1,R,J
+   5
+  15,R,D,X
+  12
+Repeat 30
+   2,R
+   2,L
+EndRepeat
+   2
+ChapterTime: 0:22.865(1345)
+
+  59
+   1,J
+1308

@@ -1,0 +1,36 @@
+# TheObeliskInTheSky
+# https://gamebanana.com/mods/446508
+
+RecordCount: 153
+
+console load Mallard/TheObelisk/Tower
+   1
+
+#Start
+#lvl_1
+***
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   3,L,J
+  14,L,D,X
+  40
+
+#lvl_5
+   1,L,J
+   7,L
+   4,L,J
+   3,J
+  15,L,X
+  10,J
+   9,R,J
+   1,J
+  38,L,U,X
+   1,L,J,G
+   7,L
+  15,L,U,X
+ 135
+
+ChapterTime: 0:05.134(302)

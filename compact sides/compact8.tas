@@ -1,0 +1,48 @@
+console load Geles/8co 
+   1
+
+#lvl_1
+ 190
+   6,L
+  19,L,K
+  15,U,X
+  13,R,J
+   3,K
+   2,L,J
+   2,R,K
+   2,L,J
+   2,R,K
+  40
+
+#lvl_2
+   1,R,J,G
+  10,R,K,G
+  17,R,U,X
+  16,R,U,G
+   8,R,J,G
+   6,R
+   9,L,J
+   4,R,J
+  17,R,U,X
+   4,R,J,G
+  12,K,G
+  10,J,G
+  40
+
+#lvl_3
+   5,K,G
+   6,L,J
+  12,U,X
+  23,L,J
+  34,L,D,X
+   8,R,J
+  42,R,D,X
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+  54,L
+
+#0:07.072(416)
+

@@ -1,0 +1,186 @@
+RecordCount: 635
+
+console load GooseGamerWeek/1-Main/day2
+   1
+
+#Start
+ 190
+
+#lvl_1
+   9,L,Z
+  20,L,J
+  15,R,D,X
+   2,L
+  11,L,D,C
+   8,L,J
+  22,L,D,X
+   4,L,J
+   3,L,K
+   3,L
+   7,L,D,X
+   1,L,J,G
+  14,L
+   1,L,J
+  40
+
+#lvl_2
+   6,L,J
+  12,L,D,X
+   3,L,J,G
+   7,L
+  23,L,U,X
+   4,L,J
+   5,L,K
+  19,L
+  20,D,X
+  15,R,C
+  11,U,X
+   4,C
+   5,D,C
+  11,R,X
+   9,U,C
+  11,D,X
+  15,R,C
+   6,L
+  21,L,U,Z
+   4,L,J
+  16,L,K
+  13,L,X
+   9,L,J,G
+  21,L
+  14,L,Z
+   1,L,J
+  18,L,D,X
+   4,L,J
+   1,L,K
+  12,L,U,X
+   4,L,J
+  15,L,K
+  29,L,D,X
+   1,L,D,J
+   1
+   1,L
+   1
+   2,L
+   5,L,J
+   7,L,Z
+  40
+
+#lvl_3
+   7,L,X
+   9,L,J,G
+  15,R,X
+  22,U,C
+   3,L
+  25,L,D,X
+   4,L,J
+   1,L,K
+   6,R,K
+   2,L,K
+  13,L,U,X
+  12,L,J,G
+   7,L
+  48,L,D,X
+   4,L,J
+  10,L,G
+   6,R
+   8,L
+   2,R
+  55,R,U,Z
+   4,R,J
+  27,L,D
+  55,L,G
+  35,U,G
+  92,G
+   6,R,J
+  13,R,C
+  11,D,X
+  11,U,C
+  31,L
+   4,C
+   6,D,C
+  12,U,X
+  30,R
+  11,U,X
+  11,U,C
+   1
+  13,L,Z
+  11,U,C
+   4,X
+   7,D,X
+  12
+  13,L,C
+  12,U,X
+  11,U,C
+  12
+  13,L,X
+  11,U,C
+   4,X
+   7,D,X
+  48,L,C
+   4,L,J
+   1,L,K
+   9,L,D,X
+  40
+
+#lvl_4
+   6,L,D,X
+   2,L,D,J
+  13,R,D,X
+   2,L,J
+  40,L,D,X
+   4,L,J
+   1,L,K
+  12,L,D,X
+  40
+
+#lvl_5
+   2,L,D,X
+   1,L,J
+   2,L
+  10,L,U,Z
+  15,R,D,C
+   2,L
+  12,L,D,X
+   4,L,J
+  33,L,D,X
+   4,L,J
+  10,L,K
+  10,L
+  20,L,X
+   4,R,J
+  53,U,X
+  14,L,D,C
+   1,L,J
+  28,L,U,Z
+   4,L,J
+   6,L,K
+  14,L
+   3
+   8,R,J
+  25,R,D
+   7,R
+  18,R,U,Z
+  17,L,X
+   4,L,J
+   2,L,K
+  10,L,J,G
+   4,X
+  11,L,D,X
+  68,L,C
+   4,L,J
+  13,L,K
+  19,L,D,X
+   6,L,J
+   1,L
+  40
+
+#lvl_6
+  16,L
+  13,L,X
+  17,D,C
+  18,U,X
+ 135
+
+
+ChapterTime: 0:33.864(1992)

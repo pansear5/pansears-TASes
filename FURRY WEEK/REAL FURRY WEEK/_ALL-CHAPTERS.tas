@@ -1,0 +1,28 @@
+read start
+
+#chapters
+read 1-SPARK Start
+read Load
+read 2-AVERT Start
+read Load
+#postcard
+ 230
+   1,J
+ 136
+read 3-MINUS Start
+read Load
+read 4-UPEND Start
+read Load
+read 5-LIMIT Start
+read Load
+read 6-PIECE Start
+read Load
+read 7-BOUND Start
+unsafe
+  60
+   1,J
+ 196
+ 165
+   1,J
+  83
+read LoadJournal

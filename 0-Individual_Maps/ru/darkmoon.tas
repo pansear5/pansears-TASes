@@ -1,0 +1,29 @@
+RecordCount: 24
+
+console load MoonRuins/1-moonruins d-13x
+   1
+
+#Start
+  37
+
+#lvl_d-13x
+***
+ 417
+***s
+   4,Z
+   2,R,J
+   8,R
+   1,R,J
+  14,R,D,X
+   7,R,J
+  40
+
+#lvl_e-transition
+***
+   3,R,J
+   5,R,D,X
+   1,S
+   1,D,J
+  34
+   5,R
+ 500,R,D,J

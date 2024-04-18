@@ -1,0 +1,104 @@
+console, load, BlueXans/Uncanny Valley/Uncanny Valley
+   1
+
+#a-01
+ 193
+   4,D,X
+   6,R,X
+   2,R,J
+   2,R
+   2,R,K,G
+   6,R
+  10,R,D,X
+   2,R,J,G
+   3,R
+  10,R,D,X
+   1,R,J
+   8,R
+   1,R,J
+  40
+
+#a-02
+   4,D,X
+   5,R,X
+   1,R,J
+   6,R
+  10,R,J
+   5,R
+  12,R,J
+  10,U,X
+  17,R,J
+  13,J
+   4,D,X
+  11,R,X
+  19,L,D
+   3,D
+  17,R,D
+   2,R
+  15,R,X
+   4,R
+   5,U,X
+  16,R,J
+   5,R,D
+   4,R,J
+  17,R,D
+  11,L,D,X
+  19,R,J
+   4,D,X
+  10,R,X
+   2,R,J
+   8,R
+   1,R,J
+   5,R,D,X
+   1,R,J
+   1,R
+  40
+
+#a-03
+   9,R
+   2,R,J
+   4,D,X
+   3,R,X
+   1,R,J
+   8,R
+  15,R,X
+   5,D,C
+   8,D
+  14,L,J
+  10,R,X
+  13,R,J
+   5,R,U,X
+  19,R,G
+  16,R
+   4
+  14,R,D,X
+  11,L,J
+  26,L,D
+  12,L,D,X
+  21,L,J
+  13,U,X
+  25,R,C
+  36,U,X
+  26,R,J
+  15,U,X
+   1,R,J
+  18,R,D
+   6,R,J
+   5,R
+  20,R,J
+   2,R
+  29,R,D
+  40
+  18,R,X
+  40,R,D
+   4,D,X
+   1,R,J
+
+
+
+
+
+
+
+
+

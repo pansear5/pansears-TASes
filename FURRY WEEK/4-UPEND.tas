@@ -1,0 +1,171 @@
+RecordCount: 1352
+
+console load KAERRA/FurryWeek/day4 
+   1
+
+#Start
+  76
+
+#lvl_d-00
+  10,R,D,X
+   1,R,J
+   8,R
+   1,R,J,G
+   7,R
+  13,R,U,X
+   1,R,J,G
+  26,R,D
+   1,R,J
+   6,R,D,X
+   1,R,J
+  40
+
+#lvl_d-01
+   7,R
+   9,R,J
+   1,R
+  14,R,U,X
+   1,R,J,G
+   3
+  10,R
+   7,R,J
+   1,R
+   1,R,K,G
+   6,R,D
+   4,L,D
+   1,R,D
+  16,L,D
+  16,L,D,X
+   8,R,D
+  10,R,J
+   5,R
+   1,J
+  12,R,U,X
+   1,R,J,G
+   3
+  10,R
+   1,R,J
+   1,R
+   8,R,U,X
+   3,R,J,G
+   7,R
+   2,R,J
+  18,R,D
+   1,R,D,J
+  10,R,D,X
+  40
+
+#lvl_d-02
+   4,R,D,X
+   1,R,J
+   7,R
+   8,R,J
+   1,R,J,G
+   2,R
+  34,L,D
+   8,L,Z
+   1,L,J
+   3,L
+   6,R
+   7,R,J
+   1,R
+   1
+   1,R,J,G
+   4,J
+   1
+  15,U,X
+  22,L
+  15,L,U,Z
+   4,L
+   2
+   1,R,J
+  10,R,X
+   1,L,J
+  14,L
+   8,L,J
+   5,L,K,G
+  11,L
+   5,L,U,Z
+  40
+
+#lvl_d-03
+  10,L,U,Z
+   3,L
+   1,J
+  10,K
+  11,R,J,G
+   1,K
+  18,L,J
+  15,U,X
+  15,R,U,C
+  13,R
+   4,Z
+   2,R,J
+   1,R
+   1,R,J
+   6,R
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_d-04
+   4,R,D,X
+   1,R,J
+   1
+  13,R,D
+   5,L,D
+  10,L,D,X
+   1,L,J
+  23,R,J
+  12,U,X
+   5,R,J
+   3,R
+  10,R,J,G
+  20,R,D
+  11,D
+  10,R,D,X
+   4,L,J
+   9,R,J
+   5,R
+   1,R,J
+   8,R
+   6,D,X
+   8
+  12,R
+   1,R,J,G
+   5,R
+   1,R,J
+  15,R,D
+   4,Z
+   2,R,J
+   7,R
+  40
+
+#lvl_d-05
+   1,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R
+   6,R,J
+  10,L,D,X
+  19,R,J
+   9,R
+  10,D,X
+  12
+   8,L
+  12,L,X
+   8,L,J
+   1,L,K,G
+  11,L
+   6,D,X
+   3
+  18,L
+  10,L,Z
+   4,L,J
+   5,R,J
+   4,J
+  14,R,U,Z
+ 135,L
+
+ChapterTime: 0:20.400(1200)
