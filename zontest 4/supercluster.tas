@@ -1,0 +1,76 @@
+RecordCount: 43
+
+console load ZucchiniContest2024/4-Submissions/simon
+   1
+
+#Start
+***
+ 129
+
+#lvl_00
+***
+   5,R,Z
+   3,R,U
+   3,R
+   3,R,U
+   3,R
+   3,R,U
+   3,R
+   3,R,U
+   2,R
+   9,R,U
+   6,U
+   2,R,U
+   2,U
+   2,R,U
+   9,U
+   6,L,U
+   2,L
+   2,L,U
+   5,L
+   1,L,U
+   3,L,D
+   2,D
+   3,L,D
+   2,D
+   8,R,D
+ 500,R
+
+  14,L,D,X
+   1,R,J
+   5,R,Z
+   3,R,U
+   3,R
+   3,R,U
+   3,R
+   3,R,U
+   3,R
+   3,R,U
+   3,R
+   9,R,U
+   6,U
+   2,R,U
+   2,U
+   2,R,U
+   4,U
+
+   6,L,U
+   2,L
+   2,L,U
+   5,L
+   1,L,U
+   3,L,D
+   2,D
+   3,L,D
+   2,D
+   8,R,D
+ 500,R
+
+ 332,U
+
+   3,R
+   3,R,U
+   3,R
+   3,R,U
+   3,R
+
