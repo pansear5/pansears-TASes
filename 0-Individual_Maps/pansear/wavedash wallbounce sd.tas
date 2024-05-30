@@ -1,18 +1,16 @@
 # wavedashwallbounce
 # https://gamebanana.com/mods/514920
 
-RecordCount: 92
+RecordCount: 116
 
 console load pansear/wavedashwallbounce/intermediate
 Set,SuperDashing,true
    1
 
 #Start
-***
   78
 
 #lvl_intro
-***
   12,R,J
   14,L,Z
    1,R,J
@@ -21,7 +19,37 @@ Set,SuperDashing,true
    1,R,J
   10,R,U,X
   10,R
-   4,R,D
+   5,R,D
+***
+   1,R,J
+   5,R,D,X
+   2,R,U
+   2,R,D
+  40
+
+#lvl_wavedash
+***
+   4,R
+   6,R,D
+   5,R,D,X
+   4,R,U
+   1,R
+   1,R,U
+  18,R,D
+***
+   1,R,J
+   3,R
+   5,R,U,Z
+   7,U
+  50,R,D
+   5,R,D,X
+   4,R,U
+  50,R,D
+
+
+  50,R,D
+
+
 
    1,R,J
    5,R,U,X
@@ -29,17 +57,15 @@ Set,SuperDashing,true
   40
 
 #lvl_wavedash
-***
    1,R
   11,R,D
-***
    2,R,J
    9,R
    2,R,J
    5,R,U,X
    5,R
   22,R,D
-***
+
   14,R,J
    2,R
   11,R,U,Z
