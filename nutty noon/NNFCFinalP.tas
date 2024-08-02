@@ -1,0 +1,33 @@
+RecordCount: 279
+console load LotlDev/NuttyNoon/LorStarcutter
+   1
+
+Unsafe
+#Start
+ 190
+
+#lvl_0
+   8,R,Z
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   3,R,J,G
+  74,R,D,X
+   3,R,J
+  15,R,D,X
+  14,R,J
+  15,R,X
+   1,N
+  86,R
+
+#lvl_1
+  32
+   1,S
+   1,D,J
+  34
+   1,N
+  35
+
+ChapterTime: 0:05.372(316)
+ 110
