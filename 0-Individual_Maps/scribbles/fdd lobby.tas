@@ -1,7 +1,7 @@
 # Scribbles's map pack
 # https://gamebanana.com/mods/455547
 
-RecordCount: 88
+RecordCount: 168
 
 console load ScribblesCollab/0-Lobbies/1-Lobby
    1
@@ -10,49 +10,41 @@ console load ScribblesCollab/0-Lobbies/1-Lobby
  190
 
 #lvl_Page 1
-   2,R,J
-   9,R,Z
-   8,L,J
-   4,L
-   5,L,J
+   1,J
+   6,R,J
+  10,L,Z
+   7,L,J
+   1,L,K,G
    7,L
-  27,L,J
-  20,L,U,X
-   1,L,J,G
-   1
-   2,L,J,G
+  23,L,J
+  14,L,U,X
+   5,L,J,G
    7,L
    4,Z
    1,L,J
    7,L
    7,L,J
-  10,L,Z
-   8,L,J
-  14,L,U,X
-   1,L,J,G
-   2,R,J
+  14,L,Z
+   1,L,J
+  14,L,Z
+   7,L,J
+  15,L,U,X
+   6,U
+   5,L,X
+   3,L,J
+  10,L,K,G
+  14,U,X
+   4,R,J
+  13,R,K,G
+   5,R
+   2
    2,L,J
-   1,L,K,G
-   5,L,J,G
-   7,L
-  29,G
-   8
-  11,J,G
-  11,U,X
-  12,L,J
-  11,L
-   6,L,Z
-   1,L,J
-   7,L
-   1,L,J
-  14,L,D,X
-   1,L,J
-  11,L,U,Z
+  28,U,X
+   2,L
   45,U,X
    9,R,Z
    1,R,J
    1,N
 
-
-#0:05.185(305)
+#0:04.454(262)
 
