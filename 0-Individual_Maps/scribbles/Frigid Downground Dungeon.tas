@@ -1,7 +1,7 @@
 # Scribbles's map pack
 # https://gamebanana.com/mods/455547
 
-RecordCount: 1205
+RecordCount: 1308
 
 console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
    1
@@ -14,33 +14,33 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
    2,R
    7,R,Z
    1,R,J
-   6,R
+   1,R
+   5,R
    1,R,J
-  13,R,D,X
-   6,R,J
-   1,R
-   4,R,J
-   1,R,J,G
-   1,R
-  14,R,Z
-  14,R
-  41,U,X
+  12,R,D,X
+   2,R,J
+   2,R
+  14,R,U,Z
+  19,R,D
+  40,U,X
+   5,U,C
   40
 
 #lvl_A-02
-  11
-  12,R,D,X
+   2
+   9,R
+   7,R,Z
    1,R,J
    7,R
-  21,R,D,J
+  18,R,D,J
+   3,J
   15,U,Z
-  20,L,G
-  23,L
+  18,L,G
+  25,L
   26,R,X
   11,R,U,C
    1,R,J,G
-  37,R
-   1,R
+  38,R
   15,R,U,X
    1,R
    3
@@ -90,10 +90,8 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
    1,R,G
    2
    1,G
-  16
-   8
-   4,L
-   2,L
+  24
+   6,L
    4,R,Z
    5,R,J
    1,R
@@ -340,14 +338,12 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
    5,R
    3,R,J
    1,R
-   4,Z
-   1,R,J
-   7,R
-   3,R,J
-  40
-
-#lvl_A-08
 ### maybe
+#   4,Z
+#   1,R,J
+#   7,R
+#   3,R,J
+#  40
 #   3,R,J
 #   2,R
 #   1
@@ -374,9 +370,14 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
 #   9,R,Z
 # 500,R,J
 ### 
-   3,R,J
-   4,R
-  12,R,Z
+  10,R,Z
+   1,R,J
+   5,R
+  40
+
+#lvl_A-08
+   1,R
+  13,R,D,J
   24,U,X
   34,R,C
   11,R,Z
@@ -420,4 +421,4 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
   14,R,U,X
  135
 
-ChapterTime: 0:44.013(2589)
+ChapterTime: 0:43.843(2579)
