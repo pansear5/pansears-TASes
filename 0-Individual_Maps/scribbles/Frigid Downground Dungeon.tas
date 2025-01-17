@@ -1,17 +1,15 @@
 # Scribbles's map pack
 # https://gamebanana.com/mods/455547
 
-RecordCount: 1087
+RecordCount: 1205
 
 console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
    1
 
 #Start
-***
   82
 
 #lvl_A-01
-***
    5,R,J
    2,R
    7,R,Z
@@ -30,29 +28,24 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
   40
 
 #lvl_A-02
-***
   11
   12,R,D,X
-   3,R,J
-  13,R,U,Z
-  21,R,X
-  15,U,C
-***
-  23,L,G
-  30,L
-***
+   1,R,J
+   7,R
+  21,R,D,J
+  15,U,Z
+  20,L,G
+  23,L
   26,R,X
   11,R,U,C
    1,R,J,G
   37,R
-***
    1,R
   15,R,U,X
    1,R
    3
   12,R,J
    5,R
-***
   29,R,J
    4,R,D
    6,R,J
@@ -63,19 +56,15 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
   40
 
 #lvl_A-03
-***
   10,R,D,J
    7,U,X
    1,R,J
    1,J
    5,R,J
-   
    1,R,K,G
   10,R,J,G
-***
   18,U,X
    8,R,U,C
-***
    1,J,G
    4,R,J
    7,R
@@ -83,12 +72,7 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
    3,R
    5
    1,R
-***
-   2
-   1
-   1
-
-
+   4
   12,J
    1
    1,R
@@ -106,23 +90,16 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
    1,R,G
    2
    1,G
-
-
-
-
   16
-***
    8
    4,L
    2,L
-***
    4,R,Z
    5,R,J
    1,R
    3,R,J
    4,R
   20,R,D,J
-***
 # slooooow
    1,K,G
    1,L,K
@@ -132,48 +109,38 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
    1,K
    1,R,K
    1,K
-***
   15,J
    4,R,J
   15,U,X
   10,R
-
    7,R,Z
    1,R,J
    6,R
-   
   40
 
 #lvl_A-04
-
-***
-
    1,R
-
    9,R,D,J
    5,R
    3,R,J
-***
    1,K,G
    6,R,K
    5,R
    1,R,J
    2,R
   23,L
-# save some frames
    1,G
-  21,L
+   1,L
+   1,L,D
+  18,L
   10,R,J
-  15,U,Z
-***
-  16,J
-  12,R
+  15,U,X
+  12,J
+  16,R
   26,R,X
-   
    7
    7,L
   14,L,D,X
-***
    9,R,J
    1,R
    1,R,J
@@ -186,47 +153,35 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
   40
 
 #lvl_A-05
-***
   12,R,U,Z
-***
   30,R,X
    9,U,C
-***
    3,R,J
   11,R
-***
    4,Z
    1,R,J
    7,R
-***
    4,R,D,J
    5,R
    3,R,J
    8,R
-***
   13,L,U,X
-***
    2,J,G
    1,R,J
    1,K
   15,R,J
-***
    5,K
-***
    1,L,J,G
    4,R,J
    4,J
-***
    1,K
    6,R,K
   10,R
-***
    1,J,G
    3,L,J
    5,L
    1,L,J
   14,L
-***
    1,J
    1
    4,R
@@ -236,20 +191,15 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
    6,R
    1,R,J,G
   20,R,K,G
-***
    3,R,G
   10,R
   14
    5,D
-***
-
    6,R,Z
   10,R,J,G
-***
    5,R
    1,R,J
   11,R,U,X
-***
    1,R,J,G
   12,R
    4,Z
@@ -257,13 +207,9 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
   40
 
 #lvl_A-06
-***
-   
    5,R,J
-   
    6,U,X
   10,R,J
-***
 ### IDK
 #  34,R,U,X
 #  18,R
@@ -321,75 +267,50 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
 #   2,R,D
 #  50,R,D,X
 ### 
-
   34,R,U,X
    3
   15,U,C
    4,L
-***
    4,L,J,G
    1,K
    2,J,G
    6,R,J
-***
   21,R
    4,X
-***
    1,R,J
    2,J
   15,R,J
-***
    3,R,K,G
   15,R
-***
   17
-
   17,R,D
    1
    1,R,D
-***
    1,R,D,J
-   1,R,J
-   3,R,J
-   
+   4,R,J
    9
    3,R
-   3,L
-   1,L
+   4,L
    1
    1,L
-   1,L,D
-   1,L,D
-   1,D
-***
-   1,D
-   1,L,D
-***
-   1,L,D
+   2,L,D
+   2,D
+   2,L,D
    4,L,J
    5,L
    5,L,J
-   5,L
-***
-  25,L
+  30,L
    1,L,D
    6,L
- *** 
   16,D
    7,R,D
-***
   16,R
-
   20,R
-***
    6,R
    2,R,D
    9,R,X
-
   18,R,J,G
-***
   11,U,X
-***
   11,R,J
   16,R
    1,R,J,G
@@ -402,21 +323,16 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
   40
 
 #lvl_A-07
-***
    6,R,K
   16,U,X
    6,L
   23,R
-***
    6,J
   15,U,X
    5,R
-***
    5,L,J
   14,L
-***
   36,R
-***
    6,R
    5,R,D
   14,R,X
@@ -424,7 +340,6 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
    5,R
    3,R,J
    1,R
-***s
    4,Z
    1,R,J
    7,R
@@ -432,35 +347,24 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
   40
 
 #lvl_A-08
-***
-   3,R,J
-   2,R
-   1
-   1,L,K,G
-***
-   1,K
-   1,R,K
-   1,K
-   8,R,K
-   2,R
-
-  12,R,X
-***
-# close
-#   1,R,J,G
-#   1,K,G
-
-   1,J,G
-   8,R,J
-   1,L,J
-  17,L,G
-  16,L
-***
-  25,U,X
-***
-  31,R,C
-***
 ### maybe
+#   3,R,J
+#   2,R
+#   1
+#   1,L,K,G
+#   1,K
+#   1,R,K
+#   1,K
+#   8,R,K
+#   2,R
+#  12,R,X
+#   1,J,G
+#   8,R,J
+#   1,L,J
+#  17,L,G
+#  16,L
+#  25,U,X
+#  31,R,C
 #   1,J
 #  15,R
 #   1,L,J
@@ -470,65 +374,50 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
 #   9,R,Z
 # 500,R,J
 ### 
-
-  14,R,C
-   1,R,J
-   4,R
-   1
-   4,J
-   2,K,G
-   1
-***
-   1,R,J,G
-   1,L,J
-  11,J
    3,R,J
-   ***
-  11,R
-***
-  38,L,X
-   
-***
-   1,G
-  15,D
-  10,L,D
-   5,L,X
-   1,L,J,G
-***
-   7,L
-   2
-  15,L,D,X
-  23,R,D
-***
-  87,R,X
-***
-   1,J
-   7,R,K,G
-   5,R
-   2,R,J
-   1,J
-   1,R,J
-   1,R,K,G
-  25,R,J,G
-  15,U,Z
+   4,R
+  12,R,Z
+  24,U,X
+  34,R,C
+  11,R,Z
+   6,R,J
    1,R
-***
-  14,R,J
-  14,R
-***
-   7,Z
+   4,R,J
+  12,U,X
+  11,R
+  38,L,X
+   1,G
+   3,R,D
+  13,D
+  11,R,D
+  10,D
+  12,L,D
+   2,L
+   5
+   5,L,X
+  11,L,J,G
+  22,L
+  80,R,X
+  11,R,U,C
+   8,R,J,G
+   4,J
+  15,U,X
+   2,R
+  18,R,J
+   8,R,J
+   2,R
+   6,R,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
    8,R,D,X
   40
 
 #lvl_A-09
-***
    4,R,D,X
    4,R,J
   12,R,K,G
   14,R,U,X
  135
 
-ChapterTime: 0:45.577(2681)
+ChapterTime: 0:44.013(2589)
