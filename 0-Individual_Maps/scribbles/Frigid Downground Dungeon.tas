@@ -1,7 +1,7 @@
 # Scribbles's map pack
 # https://gamebanana.com/mods/455547
 
-RecordCount: 1308
+RecordCount: 1484
 
 console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
    1
@@ -132,9 +132,14 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
    1,L,D
   18,L
   10,R,J
-  15,U,X
+  14,U,X
   12,J
-  16,R
+   1,R
+   1
+   1,R
+   1
+  10,R
+   3
   26,R,X
    7
    7,L
@@ -277,36 +282,64 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
    4,X
    1,R,J
    2,J
+### +4
+#  15,R,J
+#   3,R,K,G
+#  15,R
+#  17
+#  17,R,D
+#   1
+#   1,R,D
+#   1,R,D,J
+#   4,R,J
+#   9
+#   3,R
+#   4,L
+#   1
+#   1,L
+#   2,L,D
+#   2,D
+#   2,L,D
+#   4,L,J
+#   5,L
+#   5,L,J
+#  30,L
+#   1,L,D
+#   6,L
+#  16,D
+#   7,R,D
+### 
   15,R,J
-   3,R,K,G
-  15,R
-  17
-  17,R,D
+   1,K,G
+   2,R,K
+   9,R
+   1,R,J
+   5,R,D
+   4,D
+   3,R,D
+   8
+   9,L,J,G
+  14,L
    1
-   1,R,D
-   1,R,D,J
-   4,R,J
-   9
-   3,R
    4,L
-   1
-   1,L
-   2,L,D
-   2,D
-   2,L,D
+   1,L,D
+   6,D
+   1,L,D
+   3,D
+   1,L,D
+   2,L
+   1,D
+   1,L,D
    4,L,J
    5,L
-   5,L,J
-  30,L
-   1,L,D
-   6,L
-  16,D
-   7,R,D
-  16,R
-  20,R
-   6,R
-   2,R,D
-   9,R,X
+   6,L,J
+  36,L
+   3
+  15,D
+  47,R,D
+   1,D
+   2
+  10,R,X
   18,R,J,G
   11,U,X
   11,R,J
@@ -421,4 +454,4 @@ console, load, ScribblesCollab/1-Lobby/Le Dungeon Map
   14,R,U,X
  135
 
-ChapterTime: 0:43.843(2579)
+ChapterTime: 0:43.775(2575)
