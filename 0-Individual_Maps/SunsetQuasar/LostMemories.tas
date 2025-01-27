@@ -1,9 +1,9 @@
-console load ALetterToMyself/map 
+console load ALetterToMyself/map
    1
   36
  154
- 
- #a-00
+
+#a-00
   21,R,J
   19,R,X
    1,J
@@ -21,7 +21,7 @@ console load ALetterToMyself/map
    7,R
    1,R,J
   40
- 
+
 #a-01
   11,R,J
   10,U,X
@@ -45,7 +45,7 @@ console load ALetterToMyself/map
    5,R,J
    5,R,U,X
   40
- 
+
 #a-02
   15,R
    1,J,G
@@ -74,7 +74,7 @@ console load ALetterToMyself/map
    1,R,J
    1,R
   40
- 
+
 #a-03
    6,R
   10,D,X
@@ -101,7 +101,7 @@ console load ALetterToMyself/map
    4,Z
    8,R,J
   40
- 
+
 #a-04
    7,R,J
   10,U,X
@@ -128,7 +128,7 @@ console load ALetterToMyself/map
   10,U,C
    4,R
   40
- 
+
 #a-05
   14,R
   17,R,X
@@ -148,7 +148,7 @@ console load ALetterToMyself/map
    1,R,K
   12,R,D,X
   40,R
- 
+
 #a-06
    4,R
   10,R,J

@@ -1,9 +1,9 @@
 RecordCount: 163
 
-console load KAERRA/FurryWeek/day3 
+console load KAERRA/FurryWeek/day3
    1
 
-#Start 
+#Start
  190
 
 #lvl_c-00
@@ -23,7 +23,7 @@ console load KAERRA/FurryWeek/day3
 
 #lvl_c-01
 ***
-  
+
 
    1,R,D,X
    1,R,J
@@ -73,8 +73,8 @@ console load KAERRA/FurryWeek/day3
 
    3,R
    2,R,D
-  
-   
+
+
   10,R,D,X
    1,R,J
    5,R
@@ -96,4 +96,3 @@ console load KAERRA/FurryWeek/day3
    5,R
    4,R,J
  500,R
-

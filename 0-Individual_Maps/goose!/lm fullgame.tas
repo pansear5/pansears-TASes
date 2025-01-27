@@ -1,4 +1,4 @@
-   unsafe
+unsafe
  100
    1,J
  100
@@ -401,7 +401,7 @@ endrepeat
   24,R,D
   43
 
-#lvl_a-03 (1) 
+#lvl_a-03 (1)
    9,R,D
   12,L,D,X
    1,R,J
@@ -509,7 +509,7 @@ endrepeat
   37,U,C
   40
 
-#lvl_a-06 (2) 
+#lvl_a-06 (2)
   31,U
   14,L,Z
    1,R,J
@@ -1094,4 +1094,3 @@ endrepeat
  300
 
 ChapterTime: 2:27.747(8691)
-

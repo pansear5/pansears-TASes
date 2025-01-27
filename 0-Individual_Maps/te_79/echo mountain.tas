@@ -42,7 +42,7 @@ console load te_79/EchoMountain/EchoMountain
 #   1,J,G
 #   6,J
 #   2,L,J
-#  18,L 
+#  18,L
   10,R,X
    5,L,J
    1,L
@@ -782,7 +782,7 @@ console load te_79/EchoMountain/EchoMountain
    1,R,J
   15,R,U,X
   12,L,U,C
-  #up right demo?
+#up right demo?
   17,R
    9,U,Z
   14,R
@@ -914,7 +914,7 @@ console load te_79/EchoMountain/EchoMountain
   11,J,G
    1,L,J
   14,R,K,G
- 
+
   11,J,G
    1,L,J
    1,K
@@ -1012,8 +1012,8 @@ console load te_79/EchoMountain/EchoMountain
    2,L,J
    5,U,Z
   35,L
-  
-  
+
+
 #?
 #   3,J,G
 #   1,R,J
@@ -1061,7 +1061,7 @@ console load te_79/EchoMountain/EchoMountain
    1,R,K,G
    5,R
 ***
- 
+
 
 
    4,Z
@@ -1109,7 +1109,7 @@ console load te_79/EchoMountain/EchoMountain
    3,J,G
    1,R,J
    1,R
-  
+
    1,K
    1,R,K
    1,R,K
@@ -1150,7 +1150,7 @@ console load te_79/EchoMountain/EchoMountain
   12,R,K
 
   18,L,Z
- 
+
 
 
   11,L,U,X
@@ -1192,7 +1192,7 @@ console load te_79/EchoMountain/EchoMountain
    1,J
    1,R
    4
- 
+
    2,R,D,J
   50,R
 

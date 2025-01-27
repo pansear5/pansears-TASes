@@ -1,16 +1,16 @@
 RecordCount: 250
 
-console load L1er02/Difficult2 
+console load L1er02/Difficult2
    1
 #Start
-#B06 
+#B06
    4,Z
    4,R,J
   10,R
    1,R,J
   10,R,D,X
    1,R,J
-  repeat 26
+repeat 26
    1,O
    1,J
 endrepeat

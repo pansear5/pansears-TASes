@@ -1,9 +1,9 @@
 RecordCount: 718
 
-console load KAERRA/FurryWeek/day3 
+console load KAERRA/FurryWeek/day3
    1
 
-#Start 
+#Start
  190
 
 #lvl_c-00
@@ -29,7 +29,7 @@ console load KAERRA/FurryWeek/day3
    6,R,D
    3,D
    2,R,D
-  
+
 #skill issue
 #   4,R,D
 #   4,R,D

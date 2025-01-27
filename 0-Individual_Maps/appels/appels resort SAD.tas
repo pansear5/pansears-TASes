@@ -1,6 +1,6 @@
 RecordCount: 1924
 
-console load Appels/theresort/somethign 
+console load Appels/theresort/somethign
    1
 #Start
   76
@@ -479,7 +479,7 @@ console load Appels/theresort/somethign
   19
    4,L
   33,R
- 
+
   41,R,G
   14,R,U,G
    4,J,G
@@ -515,12 +515,12 @@ console load Appels/theresort/somethign
    1,K
   14,R,J
 
- 
+
    3,R
-   
+
    1,R,K,G
   11,R
- 
+
    4,Z
    1,R,J
    4,R
@@ -534,7 +534,7 @@ console load Appels/theresort/somethign
 #lvl_b-5
 
 
- 
+
 
 
    8,R,D,X
@@ -574,7 +574,7 @@ console load Appels/theresort/somethign
    2,R,J
    6,R
    6,L
- 
+
   15,R,U,X
    9,L
    1,R,J
@@ -702,7 +702,7 @@ console load Appels/theresort/somethign
 #lvl_c-1
   74
 ***
-  
+
   10,R,X
   19,R,J
   15,U,X
@@ -820,12 +820,12 @@ console load Appels/theresort/somethign
    1,K
 
   20,R,J
-   
+
    2
 
    6,L,K
    5,J,G
-   
+
   23,D
    6,R,D
 
@@ -887,7 +887,7 @@ console load Appels/theresort/somethign
   11
 
   12,R
-   ***
+***
   18,R,Z
    8,R
    4
@@ -907,12 +907,12 @@ console load Appels/theresort/somethign
   16,R,D,X
    4,R,G
 ***s
-  
+
    1,L
    1
   14,L,Z
    1,R,J
- 
+
   10,R,D,X
    1,R,J
 
@@ -924,7 +924,7 @@ console load Appels/theresort/somethign
   17,R,J
   10,R,D,X
    4
-   
+
 #87
 
 
@@ -1001,7 +1001,7 @@ console load Appels/theresort/somethign
    1,R,J
    7,R
   10,R,J
-  
+
   17,U,X
  500,R,J
    1,R,J

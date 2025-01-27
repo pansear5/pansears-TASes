@@ -1,6 +1,6 @@
 RecordCount: 315
 
-console load KAERRA/FurryWeek/day7 
+console load KAERRA/FurryWeek/day7
    1
 
 #Start
@@ -86,7 +86,7 @@ console load KAERRA/FurryWeek/day7
    1,R,J,G
    1,R,J
    4,R
- 
+
   14,R,X
    1,L,J
    5,R,J
@@ -121,7 +121,7 @@ console load KAERRA/FurryWeek/day7
 ***
    1,R,J,G
    1,R,J
-  
+
   15,R,D
    1,D
    3,L,D
@@ -145,7 +145,7 @@ console load KAERRA/FurryWeek/day7
    2,R,J
    5,R
    5,R,J
-  
+
 ***
    4,R,K,G
    9,R
@@ -153,4 +153,3 @@ console load KAERRA/FurryWeek/day7
   50,R,D,X
   50,R
   50,R,D,X
- 

@@ -1,6 +1,6 @@
 RecordCount: 179
 
-console load alicequasar/girlsmap/fonfonf 
+console load alicequasar/girlsmap/fonfonf
    1
 
 #Start
@@ -34,7 +34,7 @@ console load alicequasar/girlsmap/fonfonf
    1,R
    1,R,J
   19,R,D
- #get 6f bhop
+#get 6f bhop
 ***
    4,Z
    2,R,J
@@ -96,4 +96,3 @@ console load alicequasar/girlsmap/fonfonf
   12,R,D,X
   40
   50,R,D,X
- 

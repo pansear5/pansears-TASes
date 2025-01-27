@@ -1,6 +1,6 @@
 RecordCount: 335
 
-console, load, pansear/TempleMap/solo map 
+console, load, pansear/TempleMap/solo map
    1
 #Start
  190
@@ -195,5 +195,3 @@ console, load, pansear/TempleMap/solo map
   15,R,D,X
    4,R,J
   50,R
-
- 

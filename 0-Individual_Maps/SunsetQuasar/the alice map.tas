@@ -1,6 +1,6 @@
 RecordCount: 345
 
-console load AliceQuasar/FlairAgainstEvidence/level 
+console load AliceQuasar/FlairAgainstEvidence/level
    1
 ***
 #Start
@@ -46,7 +46,7 @@ console load AliceQuasar/FlairAgainstEvidence/level
    1,R,J
    1
    5,L
-   
+
    1,R
    3,L
    3,D
@@ -56,10 +56,10 @@ console load AliceQuasar/FlairAgainstEvidence/level
    2,L,D
   15,R,Z
 ***
- 
 
 
-  
+
+
   14,U,X
    8,L,J
   12,L,K,G
@@ -73,7 +73,7 @@ console load AliceQuasar/FlairAgainstEvidence/level
 #   5,R
 #   2,L
 #   1,L,J
-  
+
 #  15,D,X
 #   1,J
 #  15,D,X
@@ -104,7 +104,7 @@ console load AliceQuasar/FlairAgainstEvidence/level
 #lvl_1
 
 
- 
+
    4,R,J
    8,R
   15,U,X
@@ -112,7 +112,7 @@ console load AliceQuasar/FlairAgainstEvidence/level
    1,J,G
   10
 ***
-  
+
    5,G
   13,R,D
   15,R,X
@@ -208,10 +208,7 @@ console load AliceQuasar/FlairAgainstEvidence/level
    6,J,G
    1,K
    1,J
-  
+
    5,R
   50,R,J
 #361
-
-   
-

@@ -18,7 +18,7 @@ console, load, Amber/The_Climb/3-Level 3
    9,L,D,X
   46,L,J
   34,L,U,X
-  
+
    3,L,J,G
    7,L
    5,R,Z
@@ -56,7 +56,7 @@ console, load, Amber/The_Climb/3-Level 3
    2,R
   15,D,X
   76
-  
+
 ***
    4,Z
    1,L,J
@@ -71,7 +71,7 @@ console, load, Amber/The_Climb/3-Level 3
 
 
    2,J
-  
+
   50
    1,L,G
    6,U,G
@@ -114,7 +114,7 @@ console, load, Amber/The_Climb/3-Level 3
    3,R,D,X
    1,L,J
    4,J
- 
+
 stunpause
    9,J
    3,R
@@ -239,7 +239,7 @@ endstunpause
    9,R,D,X
   40
 
-#   
+#
    1,R,J
    9,R,D
    5,D,X

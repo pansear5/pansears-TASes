@@ -1,4 +1,4 @@
-console load Geles/4co 
+console load Geles/4co
    1
 
 #lvl_1
@@ -12,7 +12,7 @@ console load Geles/4co
    7,L,J
   40
 
-#lvl_2   
+#lvl_2
    2,L,K
    4,L,J,G
   13,U,X
@@ -48,6 +48,3 @@ console load Geles/4co
  136
 
 #0:09.214(542)
- 
-
-

@@ -1,6 +1,6 @@
 RecordCount: 813
 
-console load KAERRA/FurryWeek/day1 
+console load KAERRA/FurryWeek/day1
    1
 
 #Start
@@ -44,7 +44,7 @@ console load KAERRA/FurryWeek/day1
   15,R
   40
 
-#lvl_a-02   
+#lvl_a-02
    9,R,J
    7,R
   10
@@ -146,4 +146,3 @@ console load KAERRA/FurryWeek/day1
  139,D,X
 
 ChapterTime: 0:18.445(1085)
- 

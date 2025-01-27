@@ -1,7 +1,7 @@
-#2b jumpless 2 dashes  
+#2b jumpless 2 dashes
 #by pansear
 
-console hard 2 
+console hard 2
 #lvl_01
  190
    1
@@ -52,7 +52,7 @@ console hard 2
   15,R,U,C
  160,R,U,G
   40
-   
+
 #lvl_05
    8
   10,U,X
@@ -430,4 +430,3 @@ console hard 2
   15,U,X
   15,U,C
  136
- 

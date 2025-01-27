@@ -1,6 +1,6 @@
 RecordCount: 624
 
-console, load, ethanol/Advanced-Sides/1-Forsaken City Advanced-Side 
+console, load, ethanol/Advanced-Sides/1-Forsaken City Advanced-Side
    1
 #start-01
   84
@@ -37,13 +37,13 @@ console, load, ethanol/Advanced-Sides/1-Forsaken City Advanced-Side
    2,L
 
 #maybe faster
-  # 4,Z
-   #1,R,J
-  # 8,R
- # 20,R,J
-  # 5,R
-  #25,R,X
-  #50,R,G
+# 4,Z
+#1,R,J
+# 8,R
+# 20,R,J
+# 5,R
+#25,R,X
+#50,R,G
 
   10,R,Z
    3,R,J
@@ -354,7 +354,5 @@ console, load, ethanol/Advanced-Sides/1-Forsaken City Advanced-Side
   27,R,D
    1,J
   92,R,D
- 
-#0:53.788(3164)
 
- 
+#0:53.788(3164)

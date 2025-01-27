@@ -1,6 +1,6 @@
 RecordCount: 1106
 
-console load Appels/theresort/somethign 
+console load Appels/theresort/somethign
    1
 #Start
   76
@@ -479,7 +479,7 @@ console load Appels/theresort/somethign
   19
    4,L
   33,R
- 
+
   41,R,G
   14,R,U,G
    4,J,G
@@ -515,12 +515,12 @@ console load Appels/theresort/somethign
    1,K
   14,R,J
 
- 
+
    3,R
-   
+
    1,R,K,G
   11,R
- 
+
    4,Z
    1,R,J
    4,R
@@ -534,7 +534,7 @@ console load Appels/theresort/somethign
 #lvl_b-5
 
 
- 
+
 
 
    8,R,D,X

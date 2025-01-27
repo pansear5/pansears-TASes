@@ -1,4 +1,4 @@
-console load AliceQuasar/TempleOfTomorrow/map 
+console load AliceQuasar/TempleOfTomorrow/map
    1
 
 #start
@@ -34,7 +34,7 @@ console load AliceQuasar/TempleOfTomorrow/map
 #   1,L
 #  15,R,D,X
 #   3,R,J
- #---------
+#---------
   15,R,X
   15,R,D,C
    2,R
@@ -81,7 +81,7 @@ console load AliceQuasar/TempleOfTomorrow/map
    1,R
   40
 
-#lvl_b-01  
+#lvl_b-01
    9,L
   15,D,X
    5,L
@@ -157,11 +157,11 @@ console load AliceQuasar/TempleOfTomorrow/map
    1,R,J,G
   14,R,J
    6,R
-  # 5,R,J
+# 5,R,J
 #  13,R
 #   1,R,D,J
 #   5,R,J
- #  2,R
+#  2,R
   40
 
 #lvl_b-04
@@ -298,7 +298,7 @@ console load AliceQuasar/TempleOfTomorrow/map
 #   2,R,J
 #   8,R
 #   2,R,J
-#-----------   
+#-----------
    4,R
    8,R,J,G
    5,R

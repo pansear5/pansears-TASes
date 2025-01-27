@@ -3,7 +3,7 @@
 
 RecordCount: 3200
 
-console load DreamZipMover/ABuffZucchini/DreamZipMover 
+console load DreamZipMover/ABuffZucchini/DreamZipMover
    1
 
 #Start
@@ -129,7 +129,7 @@ console load DreamZipMover/ABuffZucchini/DreamZipMover
 #   8,L,D,X
 #   1,L,J
 #   5,L
-#--------  
+#--------
    3,L,J
    2,J
    1
@@ -990,9 +990,3 @@ console load DreamZipMover/ABuffZucchini/DreamZipMover
 
 ChapterTime: 2:17.139(8067)
 # First Draft: 2:17.343(8079)
-
-
-
-
-
-

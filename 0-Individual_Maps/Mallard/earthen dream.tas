@@ -26,7 +26,7 @@ console load Mallard/EarthenDream/earthen
    3,R
    1,R,J
    3,R
- 
+
   14,R,D,X
    6,R,J
    5,R
@@ -255,7 +255,7 @@ console load Mallard/EarthenDream/earthen
    1,J,G
    8,L,J
    1,R,J
-  #get transition tcb maybe
+#get transition tcb maybe
    2,L,K,G
   12,L,J
   40

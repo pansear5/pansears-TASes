@@ -1,5 +1,5 @@
 unsafe
-console load Geles/1co 
+console load Geles/1co
    1
 
 #lvl_1
@@ -148,11 +148,11 @@ console load Geles/1co
    1,J
    1,K
    1,J
- 
+
 #0:08.279(487)
  354,O
 
- #lvl_1
+#lvl_1
  190
   12,L,J
   12,L,X
@@ -193,7 +193,7 @@ console load Geles/1co
   10,U,X
   40
 
-#lvl_3   
+#lvl_3
    1,L,J,G
    4,L
    6,L
@@ -348,7 +348,7 @@ console load Geles/1co
    7,L,J
   40
 
-#lvl_2   
+#lvl_2
    2,L,K
    4,L,J,G
   13,U,X
@@ -449,7 +449,7 @@ console load Geles/1co
    8,R,J
   50,R,Z
   13,R,D
- 
+
 #0:11.118(654)
  354,O
 
@@ -604,14 +604,3 @@ console load Geles/1co
 
 #0:07.072(416)
   50,O
-
-
-
-
-
-
-
-
-
-
-

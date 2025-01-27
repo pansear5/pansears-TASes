@@ -1,4 +1,4 @@
-console load Mallard/SummitGarden/garden 
+console load Mallard/SummitGarden/garden
    1
 #start
   94
@@ -72,7 +72,7 @@ console load Mallard/SummitGarden/garden
 #   1,J,G
 #   5
 #   6,L
-   
+
 #   6,L,Z
 #   1,R,J
 # 500,R
@@ -93,7 +93,7 @@ console load Mallard/SummitGarden/garden
    4,R,J
   40
 
-#e 
+#e
    6,R,J
    2,R
    1,R,J
@@ -135,11 +135,11 @@ console load Mallard/SummitGarden/garden
 #   1,R,K,G
 #   2,K
 #  50,R,K
-#   5,R  
-#   6,R,J    
+#   5,R
+#   6,R,J
 #  50,R,Z
 # 500
-#-----------  
+#-----------
    2,R,J
    8,J
    2
@@ -219,7 +219,7 @@ console load Mallard/SummitGarden/garden
 #   5,R
 # 500,R,J
 #----------
-   
+
   15,R,D
   26,R,Z
   12,K,G
@@ -238,7 +238,7 @@ console load Mallard/SummitGarden/garden
   10,R,D
    5,R,J
 
-#top demo  worse bumper 
+#top demo  worse bumper
 #  21,R,D
 #   7,L,D
 #   3,L,J
@@ -309,4 +309,3 @@ console load Mallard/SummitGarden/garden
   40,L,J
    7,R,U,X
 #0:33.422(1966)
-

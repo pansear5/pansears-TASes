@@ -1,7 +1,7 @@
 #balls week day 4; dashless pride by nyan
 #inputs by pansear
 
-console load BallsWeek/ballsWeek_4 
+console load BallsWeek/ballsWeek_4
    1
 
 #1
@@ -119,7 +119,7 @@ console load BallsWeek/ballsWeek_4
    3,K,G
   40
 
-#4   
+#4
    2,K,G
    8,J,G
    5,L,J
@@ -243,7 +243,3 @@ console load BallsWeek/ballsWeek_4
 
 
 #44.047 (2591)
- 
-
-
-

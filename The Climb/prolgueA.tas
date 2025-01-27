@@ -17,7 +17,7 @@ console load Amber/The_Climb/0-prologue
   14,L
   40
 
-#lvl_o-1 
+#lvl_o-1
    1
    1,S
    1,D,J
@@ -73,7 +73,7 @@ console load Amber/The_Climb/0-prologue
    6,R
   40
 
-#lvl_i-1 
+#lvl_i-1
    1,R
   11,R,J
    5,R

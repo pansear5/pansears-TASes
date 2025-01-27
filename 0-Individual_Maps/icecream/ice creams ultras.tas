@@ -1,6 +1,6 @@
 RecordCount: 151
 
-console, load, iceCream/Ultras/iceCreams Ultras 
+console, load, iceCream/Ultras/iceCreams Ultras
    1
 
 
@@ -12,7 +12,7 @@ console, load, iceCream/Ultras/iceCreams Ultras
    2
 
 #lvl_a-00
- 
+
   14,R,D,X
    1,R,J
   16,R,D,X
@@ -51,7 +51,7 @@ console, load, iceCream/Ultras/iceCreams Ultras
    4,R,J,G
    8,R,D
    1,R,J
-  
+
   40
    2,R,J
    6,R,K,G

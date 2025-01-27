@@ -9,7 +9,7 @@ console load Contes/zap
 #Start
  190
 
-#lvl_00  
+#lvl_00
    1,R,J
    6,R
    6,U,X
@@ -332,5 +332,3 @@ console load Contes/zap
  135
 
 ChapterTime: 0:38.862(2286)
-
-
