@@ -1,7 +1,7 @@
 # bigRoomCollab
 # https://gamebanana.com/mods/572202
 
-RecordCount: 187
+RecordCount: 288
 
 console load Crispybag/PeakDistilled/cooler
    1
@@ -11,39 +11,54 @@ console load Crispybag/PeakDistilled/cooler
    4,Z
    1,L,J
    7,L
-   1,L,J
-   5,L
-   2,L,J
-  15,L
-   5,L,D
-  18,L,U,X
-   4,R,J
-   1,R,K
-   3,L,K
-  15,U,X
-  15,R,U,C
-  15,L,U,X
-   7,L
-  20,D
-   4,R,D
-  16,L,D,X
+  22,L,J
+  23,L,D,X
    4,L,J
    4,Z
-   2,L,J
-   3
-   1,L,J
-  27,L,D
+   8,L,J
+   6,J
+  15,U,X
+   5,R
+  16,U,C
+   5,L
+   9,L,J
+  26,L,D
+  23,L,D,X
+   5,D
   18,L,X
   15,L,Z
+   4,L
+###
+#  27,R,D
+#  22,R,X
+#  15,R,C
+#  36,R,D
+#  17,D
+#   5,L,D
+#   2,D
+#   5,L,D
+#   6,U,X
+#  14,R,J
+#   4,R
+#  15,R,X
+#  23,R,D
+#   2,R,J
+#  15,R,X
+###
+  28,R,D
+   8,R,X
+   1,J,G
+   2,R
    2
-  16,L
-  11,L,D
-  29,R,D
-  15,R,U,Z
-   1,J
-  15,R,U,X
-  31,R,D
-  10,R,Z
+   2,L
+  15,D,X
+   4,D
+   4,R,D
+   7,R
+   2,R,D
+  15,R,Z
+   1,R
+   9,R,V
   15,D,X
   16,R,D
    3,R
@@ -56,4 +71,4 @@ console load Crispybag/PeakDistilled/cooler
   14,R,X
  135
 
-ChapterTime: 0:08.857(521)
+ChapterTime: 0:08.143(479)
