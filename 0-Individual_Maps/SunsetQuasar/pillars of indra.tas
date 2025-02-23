@@ -1,7 +1,7 @@
 # BeginnerContest2021_AliceQuasar
 # https://gamebanana.com/mods/507762
 
-RecordCount: 769
+RecordCount: 1092
 
 console load sunsetquasar/pillarsofindra/pillar
    1
@@ -37,19 +37,27 @@ console load sunsetquasar/pillarsofindra/pillar
    7,L
   21,L,J
    6,L
-  12,U,X
-   2
-  14,L,J
-   3,J
-   3,R,K
+  15,U,X
+  13,L,J
+   4,J
+   1,K
+   1,R,K
+   5,R
+   1,R,J
+   7,R
+   4,R
+   6,R,Z
+   7,R,J,G
    5,R
    3,R,J
-  10,R
-   6,R,Z
-   8,R,J,G
-   5,R
-   2,R,J
   11,R,U,X
+#  13,R,J,G
+#  10,U,X
+#  13,R,J
+#  40
+#  11,L,J
+#  10,L,Z
+#   4,L,J
   16,R,J,G
   16,U,Z
    4,L,J,G
@@ -62,9 +70,9 @@ console load sunsetquasar/pillarsofindra/pillar
    8,L,K,G
    6,L,Z
    4,L,J
-  23,L,X
-  14,L,U,Z
-  12,L,J,G
+  22,L,X
+  15,L,U,Z
+  11,L,J,G
    1,K
    1
   16,U,X
@@ -165,20 +173,42 @@ console load sunsetquasar/pillarsofindra/pillar
   43
 
 #lvl_pillar-04
-   3,L,D
-  13,L,D,X
+###
+#   5,L,D
+#  10,R,D,X
+#   2,L,J
+#   1,L
+#   2,J
+#  31,R,D
+#  14,R
+#   9,R,D
+#   6,L,D
+#  12,L
+#   1,L,D
+#   3,L
+#  15,L,U,Z
+#  30,L
+#   1,L
+#   2,L,J
+#  30,D
+#  11,R,D
+#   6,D
+#   4,R,D
+#   3,D
+###
+   5,L,D
+  10,L,D,X
    1,L,J
-   4,L
+   2
+   3,L
   15,D,X
    8,L,D
    3,D
    4,R,D
-  15,R
-# up left demo is possible but hard to set up
-  22,R,D
-  17,R,X
-  48,L,C
-   4
+  12,R
+  23,R,D
+  18,R,X
+  52,L,C
   15,D,X
   14,D
   14,R,D
@@ -194,7 +224,6 @@ console load sunsetquasar/pillarsofindra/pillar
    4,Z
    1,L,J
   12,L,D
-
    9,R,D
   40
 
@@ -311,6 +340,16 @@ console load sunsetquasar/pillarsofindra/pillar
   40
 
 #lvl_pillar-07
+###
+#  10,J,G
+#   1,K
+#  11,R,D,X
+#   2,R,J
+#   2,J
+#  18,R,X
+#  18,R,U,C
+#  50,R,X
+###
   11,R,J
 # optimisable
   14,R,D,X
@@ -377,4 +416,4 @@ console load sunsetquasar/pillarsofindra/pillar
   11,U,X
  135
 
-ChapterTime: 0:53.754(3162)
+ChapterTime: 0:53.703(3159)
