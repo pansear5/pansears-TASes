@@ -1,0 +1,77 @@
+# ShiveringHollows
+# https://gamebanana.com/mods/388442
+
+RecordCount: 102
+
+console load ZucchiniContest2022/2-Submissions/ultraswanslide
+   1
+
+#Start
+ 190
+
+#lvl_A-01
+   5,L,Z
+   1,R,J
+   7,R
+   1,R,J
+   1,R
+  11,R,D,X
+   6,R,J
+   7,R
+  11,R,J
+   5,R,D,X
+   1,R,J
+   2,R
+  40
+
+#lvl_A-02
+  15,R,J
+   5,R,D,X
+   9,R
+   2,R,J
+   5,R,D,X
+  40
+
+#lvl_A-03
+   1,R
+  18,R,J
+   5,R,D,X
+   9,R
+   2,R,J
+   5,R,D,X
+  40
+
+#lvl_A-04
+   1,R
+  18,R,J
+   5,R,D,X
+  17,R
+   4,R,D
+   1,R,J
+   5,R,D,X
+  16,R
+   6,R,D,X
+  40
+
+#lvl_A-05
+  10,R,J
+  40
+
+#lvl_A-06
+   1,R
+   6,R,D,X
+   1,R,J
+  14,R,D
+  40
+
+#lvl_A-07
+   5,R,D,X
+   8,R,D
+   2,R,J
+  10,R,D,X
+   5,R,J
+  18,R
+   1,R
+   5,R,U,X
+ 135
+ChapterTime: 0:10.438(614)
