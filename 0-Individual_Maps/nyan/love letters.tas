@@ -1,0 +1,134 @@
+# LoveLetters
+# https://gamebanana.com/mods/575139
+
+RecordCount: 173
+
+console load Nyan/LoveLetters/LoveLetters
+   1
+
+#Start
+ 190
+
+#lvl_1
+***
+  10,R,Z
+   9,R,J
+   6,R
+  14,R,Z
+   1,R,J
+   6,R,K,G
+   5,R
+   2,R,J
+   3,R
+   1,R,J
+   7,R,D,X
+  40
+
+#lvl_2
+   7,R
+  20,R,J
+  14,R,X
+  27,R
+  13,L,U,X
+  40,R
+  14,R,Z
+   1,R,D
+  14,R,Z
+  30,R,J
+   8,R,D
+  24,R,U,Z
+  10,R,V
+   4
+   9,R,J
+   1,R
+
+   2,R,J
+   3,R
+   1,R,J
+   4,R
+   5,R,U,Z
+#   35,R,D
+
+  20,R
+  15
+  10,R,X
+   5,J
+   3,R,J
+   9,J
+  11,R,U,Z
+  40
+
+#lvl_3
+***S
+   6,R
+   1
+
+   1,L
+   1,J,G
+   1
+   1,R
+   4
+   3,R
+   2
+  23,R,U,Z
+  18,U,X
+  50,R
+   1,L
+   1,J,G
+  50,R
+
+
+   1,R
+   2,R
+   2,R
+   1,J
+   1,L
+  50,J
+
+   1,K,G
+  50,R
+   1,L,K,G
+  50,R,K
+   5,R
+   1,L,J,G
+   1,R,J
+   3,R
+   1,L
+   1,J,G
+  50,R
+  50,R,J
+
+
+
+   4,Z
+   1,R,J
+   7,R
+   2,R
+   1,R,J
+   8,R,D,X
+  40
+
+
+
+   4,R
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   1,R,J
+   4,R,K,G
+   3,R,J,G
+  17,R,K,G
+  50,L,U,X
+  15,U,X
+  50,L,J
+
+
+   8,R,J
+   6,R
+  15,R,X
+ 500,R,D
+
+# 355
+
+  50,R,J

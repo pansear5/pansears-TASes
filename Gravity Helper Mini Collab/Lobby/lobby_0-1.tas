@@ -1,0 +1,35 @@
+console load GravityHelperMiniCollab2022/0-Lobbies/1-Maps
+   1
+
+#Start
+ 190
+   2,R
+  16,R,J
+  17,U,X
+  11,L,J,G
+   1
+   9,K,G
+   7,L
+  11,L,J
+   1,L
+   6,L,Z
+   1,L,J
+   6,L
+   7,L,J
+  14,L,U,X
+   1,L,K,G
+   7,L
+   4,J
+   6,L,J
+   1,L,K,G
+  10,L,J,G
+   9,L,Z
+# 6f bhop :(
+   1,L,J
+   7,L
+   3,L,J
+   2,L
+  15,L,X
+   1,N
+
+#0:02.737(161)
