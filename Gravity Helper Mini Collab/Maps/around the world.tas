@@ -1,4 +1,4 @@
-RecordCount: 598
+RecordCount: 703
 
 console load GravityHelperMiniCollab2022/1-Maps/alicequasar
    1
@@ -162,12 +162,12 @@ console load GravityHelperMiniCollab2022/1-Maps/alicequasar
   40
 
 #lvl_6
-  20,R
-   1,R,J
-  19,R,U
-   2,R
-   1,R,U
-### closest (like 0.09px off i think)
+### could be huge (like 0.09px off i think)
+#   20,R
+#    1,R,J
+#   19,R,U
+#    2,R
+#    1,R,U
 #   41,R
 #   15,R,Z
 #    1,R
@@ -184,17 +184,27 @@ console load GravityHelperMiniCollab2022/1-Maps/alicequasar
 #    3,R,U
 #   50,R
 ###
-  33
-   9,R,D
-   8,R,D
-  30,R,X
-  15,D,C
-  26,L
-  17,R
-  19,R,Z
-  32,R,C
-  53,R
+  20,R
+   1,R,J
+  19,R,U
+   2,R
+   1,R,U
+  32,R,D
    9,R
+  15,R,Z
+   1,R
+  22,L,D
+   5,D
+   8,R
+  15,U,X
+   5,R,U
+  15,R,Z
+  18,R,U
+   1,R
+   1,R,J
+   4,R,D
+  29,R,X
+  63,R
   40
 
 #lvl_7
@@ -239,18 +249,20 @@ console load GravityHelperMiniCollab2022/1-Maps/alicequasar
 #   15,R,X
 #  500,R
 ###
-  11,R,U
-  15,R
-  15,L,D,X
-   8,L
-  20,R
-   5,R,D
+  12,R,U
+  17,R
+   3
+   1
+   1,R,J
+  20,R,D
   15,R,X
-  92,R
+  17,R
+  15,R,X
+   1,R
   40,J
 
 #lvl_8
-  57,R,J
+  54,R,J
    1,R,K
   26,R
   36,R,X
@@ -279,4 +291,4 @@ console load GravityHelperMiniCollab2022/1-Maps/alicequasar
   20,R,X
  135
 
-ChapterTime: 0:58.208(3424)
+ChapterTime: 0:56.729(3337)
