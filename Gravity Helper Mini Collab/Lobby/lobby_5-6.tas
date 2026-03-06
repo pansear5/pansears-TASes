@@ -1,0 +1,55 @@
+#console clrsav
+console hearts 5
+
+
+console load GravityHelperMiniCollab2022/0-Lobbies/1-Maps Main 4
+   1
+
+#Start
+  36
+   4,R,Z
+   1,R,J
+   7,R
+   3,R,J
+  15,R,D,X
+   3,R,J
+  12,R
+  11,R,J
+  16,U,X
+  20,R,J
+   8,K,G
+   2
+   1,J,G
+   7,R
+  12,R,J
+   2,K,G
+   2
+   5,R,Z
+   1,L,J
+   1
+   5,L
+   4,L,J
+   8,L,K,G
+   2,L,J,G
+  10,L,D,X
+   1,S
+   1,D,J
+  34
+   8,L,J
+  16,L,D,X
+   8,L,J
+  19,L,U,X
+  40
+
+#lvl_Heart
+  15,L,U,X
+  34,L,U
+   1,L,D,J
+   1,J
+  13,L,D,J
+   5,L,K,G
+   8,L,J,G
+  14,L,D,X
+ 135
+
+#0:08.092(476)
