@@ -1,0 +1,47 @@
+#This file was made based off the files in the BL folder.
+Unsafe
+#This will wipe the debug save!
+#Uncomment at your own peril.
+console clrsav
+console load GravityHelperMiniCollab2022/0-Lobbies/1-Maps
+EnforceMaingame
+   1
+
+#Start
+Read,Lobby/lobby_0-5,Start
+Read,EnterLevel,Start
+Read,Maps/onyx_tower_remnants,Start
+   1,O
+  32
+
+Read,Lobby/lobby_5-4,Start
+Read,EnterLevel,Start
+Read,Maps/kinetic_domain,Start
+   1,O
+  32
+
+Read,Lobby/lobby_4-2,Start
+Read,EnterLevel,Start
+Read,Maps/prismatism,Start
+   1,O
+  32
+
+
+Read,Lobby/lobby_2-1,Start
+Read,EnterLevel,Start
+Read,Maps/around_the_world,Start
+   1,O
+  32
+
+Read,Lobby/lobby_1-3,Start
+Read,EnterLevel,Start
+Read,Maps/you_might_want_to_bring_an_umbrella,Start
+   1,O
+  32
+
+
+Read,Lobby/lobby_3-6,Start
+  61
+   1,O
+
+FileTime: 23:17.111(82183)
