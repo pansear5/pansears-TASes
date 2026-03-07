@@ -1,4 +1,4 @@
-RecordCount: 724
+RecordCount: 1127
 
 console load GravityHelperMiniCollab2022/1-Maps/alicequasar
    1
@@ -80,130 +80,105 @@ console load GravityHelperMiniCollab2022/1-Maps/alicequasar
   17,R,U
    1,R
    1,R,J
-  18,R,D
+  15,R,D
+   3,R
   27,R,X
   20,R
+   1,J
+  18,L,D
+  14,R,D
    1,R
    1,R,J
-  20,R,D,J
-  14,R
-   1,R,J
-   7,R
-# check other timings
-  31,R,D,X
-  15,R,C
-   6,R,U
+  41,R
+  15,R,D,X
+  28,R,U
    3,R
-  25,R,Z
-  26,R,D
+  36,R,X
+  25,R,D
    8
-  34,R,D
+  35,R,D
   13,R
   40
 
 #lvl_4
-  14,R
+  17,R
    1,R,J
   15,R,U
-   3,R
-   1,R,J
-  56,R
-   1,R,J
-   9,R,U
-   9,R
-   4,R,D
-   2,R,D
-   8,D
-   2
-   1,L
-   6,L,D
-  15,U,X
-   9,L
-  12,R
-  31,R,X
-   1
-  21,R,U
    1,R
    1,R,J
-   9,R
-   9,R,U
-   1,R
-   1,R,J
-  26,R
-   6,R,D
-   4,R,U
-   6,R
-  31,R,Z
-  15,R,X
+  40,R
   14,R
+   1,R,J
+  13,R
+   6,R,U
+  27,R,X
+  19,R
+   5,R,U
+   1,U
+   1,R
+   1,R,J
+   9,R
+   1,R
+   1,R,U
+   7,R,U
+   1,R
+   1,R,J
+   9,R,D
+  30,R
+  30,R,Z
+  32,R,X
   40
 
 #lvl_5
   33,R
+# bis could be nice maybe
    1,R,J
   19,R,D
   15,R,Z
    3,R
   30,R,X
   13,R
-  12,L
-   1,L
-   8,L
+  21,L
    2,L,D
-   6,L
+   8,L,U
   15,R,D,X
-   8,R
-  22,R,X
-  15,D,C
-   7,R
-  12,L,D,X
-  91,R
+  18,R
+   1,R,J
+   4,R,D
+  15,R,X
+  27,R,D
+# probably a way to use these beter
+  15,R,X
+   9,R
+  15,R,X
+   1,R
   40
 
 #lvl_6
-### could be huge (like 0.09px off i think)
-#   20,R
-#    1,R,J
-#   19,R,U
-#    2,R
-#    1,R,U
-#   41,R
-#   15,R,Z
-#    1,R
-#   20,L,D
-#    4,D
-#    3,L,D
-#    3,D
-#    1,L,D
-#    1,D
-#    2,R
-#   15,R,U,X
-#    3,R,U
-#    1,R
-#    3,R,U
-#   50,R
-###
-  20,R
+  15,R
    1,R,J
   19,R,U
    2,R
    1,R,U
-  32,R,D
-   9,R
+  41,R
   15,R,Z
    1,R
-  22,L,D
-   5,D
+  20,L,D
+   4,D
+   3,L,D
+   2,D
+   1,L,D
+   1,L,D
+   1,D
+   2,R
+  15,R,U,X
    8,R
-  15,U,X
-   5,R,U
-  15,R,Z
-  18,R,U
+  11,R,U
    1,R
    1,R,J
    4,R,D
-  29,R,X
-  63,R
+  29,R,Z
+  61,R
   40
 
 #lvl_7
@@ -212,17 +187,12 @@ console load GravityHelperMiniCollab2022/1-Maps/alicequasar
   25,R,D
    2,R
    1,R,J
-  30,R,U
-   2,U
+  18,R,U
+# weird and slow?
+   8,U
+   2,R,U
   15,R,D,X
-   2,R
-   1
-   1,R
-   1
-   1,R
-   1
-   6,R
-   1,R
+  21,R
    1,R,J
    9,R,D
    1,R
@@ -230,41 +200,32 @@ console load GravityHelperMiniCollab2022/1-Maps/alicequasar
   33,R,X
    4
   29,R,D
-# i dont get this part
-  16,R,U
-   5,R
-  18,R
-  15,U,X
-  12,U,C
-  37,R
-   4,R,U
+  22,R
+   8,R,U
+  22,R,U,X
+  15,R,C
+  15,R,X
   22,R,D
-###
-#  20,R
-#    3,R,U
-#    3
-#   15,L,X
-#   18,R
-#   15,R,X
-#  500,R
-###
-  12,R,U
-  17,R
-   3
+   7,U
+  17,R,U
+   4,U
+   1,U
+# -1f somehwer here
    1
    1,R,J
-  20,R,D
+  17,R,D
   15,R,X
-  17,R
+  14,R
+# dash later could be faster
   15,R,X
-   1,R
+   6,R
   40,J
 
 #lvl_8
-  54,R,J
+  51,R,J
    1,R,K
   26,R
-  36,R,X
+  39,R,X
   23,R,D
   15,R,U,X
   27,R,U
@@ -290,4 +251,4 @@ console load GravityHelperMiniCollab2022/1-Maps/alicequasar
   20,R,X
  135
 
-ChapterTime: 0:56.491(3323)
+ChapterTime: 0:54.468(3204)
