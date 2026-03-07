@@ -1,4 +1,4 @@
-RecordCount: 828
+RecordCount: 1110
 
 console load GravityHelperMiniCollab2022/1-Maps/nyan
    1
@@ -42,9 +42,13 @@ console load GravityHelperMiniCollab2022/1-Maps/nyan
   19,D,X
   18,R,U,C
    4,R,J
-   5,R,K
-  20,R,D
-  20,D
+   4,Z
+   4,R,J
+   2,J
+   1,R
+  24,L,D
+   5,D
+   5
   36,R
   12,J,G
    5
@@ -101,48 +105,41 @@ console load GravityHelperMiniCollab2022/1-Maps/nyan
   23,R,Z
    7,R,J
    1,R,J
-  12,R,K
-   2
-  15,R,X
-   4
-  20,L,J
+  25,R,K
+   3
+   2,J,G
+   6,L,J
+   2,J
+   2,L,J
   28,L,U,X
-   4,R
-   9,R,K
-  17,R,X
+   4,R,J
+  14,R,K
+  15,R,X
   11,R,J
   45,R,K
-#   35,R,D
-#    1
-#    4,R
-#    1
-#   15,R,X
-#    6,R
-#   36,R,J,G
   25,R,D
   10,R
-   1,R,D
-   7,R
-   1,R,D
-  15,R,X
+   2,R,D
+   3,R
+   2,R
+   2,R
+  15,X
    4,R
-  34,R,J,G
-   5,R,U,X
+  33,R,J,G
+   5,R,U,Z
   40
 
 #lvl_MomentumSanctuary
-  20,R
+  19,R
   26,R,X
    4,R,J
-   1,R,K
-   1,K
-   4,R,K
+   5,R,K
   22,R,D,X
-   7,R,J
+   5,R,J
    5,R
-  10,R,J
-  40,R
-   7,R,D
+   8,R,J
+  20,R
+  21,R,D
   14,R,X
    1,R,J,G
   20,R,D
@@ -160,84 +157,80 @@ console load GravityHelperMiniCollab2022/1-Maps/nyan
    5
   18,R,D,X
    4,L,J
-  10,L,K
+   7,L,K
   30,L,X
    4,R,G
+   5,J,G
   20,R,X
-  31,R,D
-   1,R,D
-  12,R,X
+   4,R,J
+   1,R,J
+  32,R,D,X
    4,L,G
-   2
+  10
   12,L,Z
    4,L,J
-   6,L,K
+   5,L,K
    5,L
   23,L,J
   15,L,D,X
-  24,L
+  25,L
    2,L,J
    5,L,Z
    7,L,J
   40
 
 #lvl_SubwayNeon
-   8,L,J
-  16,L,X
+   7,L,J
+  17,L,Z
    4,L,J
    1,L,K
   17,L,D,X
-# evil spring?
-   2
-   7,L,U,C
-  11,R
-  25,L,U,X
+   6,R
+  15,U,X
+   3,L,U
+  10
+  14,L,X
    4,L,J
-   3,L,K
-   5,L
-   1,L,J
-   3,L
-  15,L,D,Z
-   9
-  15,U
-   5,R,U
-   2,R
-   1
-   1,U
-   2,U
    3
-   1,R
-  15,D,X
-   2
-  20,D
+  17,L,D
+   7,D
+   8,R,U,X
+  10,J,G
+   9,L,J
+   5,J
+  32,D
    2,L,D
   40
 
 #lvl_wintercollablobby (0)
-  20,L,D
-   3,D
+  19,L,D
+   4,D
   12,L,Z
    1,R,J
    2,R
-  19,R,D,X
+  18,R,D,X
   40
 
 #lvl_frigidstorm
+   1,R
    6,R,J
   14,R,U,X
    1,L,J,G
-   2,R,J
-   8,R
    1,R,J
-   4,R
+   7,R
+   1,R,J
+   6,R
   26,R,X
-   8,R,J
-  10,R,K
-   3,K
-  15,R,D,Z
-  11,R,C
+# theres definitely another frame here
+   4,R,J
+   7,R,K
+   8,R
+  14,R,D,Z
+   5
+   8,R,X
    3,R,J,G
-  37,R,D
+  36,R,D
+   1,R
   48,R,Z
   17,L,U
    6,U
@@ -406,4 +399,4 @@ console load GravityHelperMiniCollab2022/1-Maps/nyan
    5,L,D,X
  135
 
-ChapterTime: 1:06.555(3915)
+ChapterTime: 1:06.045(3885)
