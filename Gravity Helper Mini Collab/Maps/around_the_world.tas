@@ -1,4 +1,4 @@
-RecordCount: 1127
+RecordCount: 1229
 
 console load GravityHelperMiniCollab2022/1-Maps/alicequasar
    1
@@ -55,38 +55,40 @@ console load GravityHelperMiniCollab2022/1-Maps/alicequasar
    7,D
   37,R,D
   19,D
-  15,R,U
+   1,U
+  14,R,U
    1,R
    1,R,J
-  59,R
-# optimize this
-   1,R,J
-  25,R
-  24,R,X
-  22,R,Z
+  13,R,D
+  15,R,X
+  48,R
+  15,R,Z
+  11
+   2,U
+   5,R,U
+   1,U
+  24,R,U
    1,R
-  18,R,D,X
-  11,D,C
-  36
-  29,R,D
-  27,R
+   4,R
+   1,R,J
+   6,R
+  15,R,X
+  31,R
+  19,R,D
+  41,R
   40
 
 #lvl_3
   19,R
    1,R,J
-  10,R,U
-  10,U
-  17,R,U
-   1,R
-   1,R,J
-  15,R,D
-   3,R
-  27,R,X
-  20,R
-   1,J
-  18,L,D
-  14,R,D
+  26,R,U
+   7,R
+  19,R,D,X
+  22,R,C
+   3
+  10,R
+   1
+  21,R,D
    1,R
    1,R,J
   41,R
@@ -251,4 +253,4 @@ console load GravityHelperMiniCollab2022/1-Maps/alicequasar
   20,R,X
  135
 
-ChapterTime: 0:54.468(3204)
+ChapterTime: 0:53.975(3175)
