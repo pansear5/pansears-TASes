@@ -9,16 +9,20 @@ console load GravityHelperMiniCollab2022/0-Lobbies/1-Maps Main 4
    3,R,J
   15,R,D,X
    3,R,J
-  12,R
-   8,R,J
-   2,R,J
-  17,R,D,X
-   2,R,D
-   3,R,J
-   2,R
-  14,R,D,X
+   5,R
    1,R,J
-  16,R
+   6,R
+   1,R,J
+  14,R
+   3,R,J
+  15,R,D,X
+   1,R,D
+   4,R
+   1,R,J
+   1,R
+   5,R,J
+  13,R
    1,N
-  
-#0:01.683(99)
+
+#0:01.615(95)
+
