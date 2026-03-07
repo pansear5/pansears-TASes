@@ -1,12 +1,12 @@
 #To sync:
 #Use Celeste v.1.4.0.0
 #Use Everest v.1.3876
-#Use Secret Santa 2023 1.0.4
+#Use Gravity Helper Mini Collab 2022 1.0.2
 #Please let us know if future versions
 #Appear to be desyncing the TAS
 
 #Use the bindings in the CelesteTAS readme
-#Change your default map to Secret Santa 2023
+#Change your default map to Gravity Helper Mini Collab
 #Start from file creation "Begin"
 #Make sure map select shows up
 #Open and close Mod Options if it doesn't
@@ -14,6 +14,10 @@
 Read,StartFullCollabFile
 
 Read,1-LobbyMain,Start
+
+#Heart
+MidwayFileTime: 4:59.693(17629)
+
   59
    1,J
  196
@@ -25,12 +29,15 @@ Read,1-LobbyMain,Start
    1,J
 #Overworld
  220
-   1,X
-  32
+   1,J
+  46
 #Journal
+ 190
+   3,L
+   1,L,J
+  14,L
    1,N
-  54
+  29
    1,R
  500
-
-FileTime: 5:07.037(18061)
+  20,L
