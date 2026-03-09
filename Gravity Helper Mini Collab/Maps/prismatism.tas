@@ -1,4 +1,4 @@
-RecordCount: 627
+RecordCount: 815
 
 console load GravityHelperMiniCollab2022/1-Maps/pansear
    1
@@ -58,9 +58,14 @@ console load GravityHelperMiniCollab2022/1-Maps/pansear
    1,R,J
    5,R,U,J
   16,R,J
-  55,J
+   5,J
+   2,R,J
+  40,J
+   2,R,J
+   6,J
+   1,J
    9,R,J
-  11,R,U,J
+   9,R,U,J
   16,R,J
   17,R,U
    1,R
@@ -89,6 +94,7 @@ console load GravityHelperMiniCollab2022/1-Maps/pansear
    1,R,D
   18,R,C
   19,R
+# clip through the tall part with spikes? probably impossible
    1,R,J
    5,R
   23
@@ -96,27 +102,35 @@ console load GravityHelperMiniCollab2022/1-Maps/pansear
    6,R
   33,U
    7,R,U
+   1,U
   15,R,X
-   6,R
+   5,R
   15,R,U,X
-  11,R,U
+   5,R
+   3,R,U
+   4,R
    1,R
    1,R,J
-  18,R,D
+  19,R,D
    1,R
    1,R,J
-   9,R,U
+   3,R
+   4,R,U
+   2,R
   15,R,X
-  25,R
+  12,R
    1,R,J
-  54,R
+  53,R
+   6,R
+   1,R,J
+   3,R,U
   40
 
 #lvl_tall 2
   15,R,X
-   1,R,J
-  15,R,X
-  23,R,U
+   1,R
+  18,R,C
+  17,R,U
    1,R
    1,R,J
   14,R,D
@@ -127,26 +141,31 @@ console load GravityHelperMiniCollab2022/1-Maps/pansear
    1,R,J
    9,R
    1,R,J
-   4,R,U
-  21,L,U
+   3,R
+   1,R,U
+   7,L,U
+  10,L,U
+   6,L
    1,L
    1,L,J
    5,L,D
-   1,L
-   1,L,J
-  12,L
+   2,L
    1,J
-  11,L
+   8,L,U
    1,L,J
-  10,L
+  11,L
+   2,L
+   1,L,J
+  11,L
    5,L,U
-  22,R,U
+  18,R,U
+   4,R
   15,R,Z
    3,R
   25,L,U
-   3,L
+   3,L,U
    4,L,U
-  54,L
+  53,L
   15,L,X
   35,L
    1,L,J
@@ -171,7 +190,8 @@ console load GravityHelperMiniCollab2022/1-Maps/pansear
    1,R
    1,R,J
    7,R
-  90
+  79
+# BAD
   12,R
    3
   28,L,D
@@ -179,10 +199,12 @@ console load GravityHelperMiniCollab2022/1-Maps/pansear
    1,L,J
    7,L,U
   18,L
+   4,L
    1,L,J
   11,L,D
   15,L,X
-  14,L
+   2,L
+   9,L
    1,L,J
    7,L,U
    7,L
@@ -195,18 +217,19 @@ console load GravityHelperMiniCollab2022/1-Maps/pansear
    6
   18
    3
-   8,L
-  14,L,U
+   9,L
+  12,L,U
+   2,L
    1,L,J
   15,L
    1,J
   19,L,U
-  13
-  16,L
+  19
+  11,L
    1,L,J
-  33,L
+  32,L
   37,L,U,X
-  53,L
+  54,L
    1,L,J
   40
 
@@ -218,4 +241,4 @@ console load GravityHelperMiniCollab2022/1-Maps/pansear
    4,C
  135,R,D
 
-ChapterTime: 0:44.421(2613)
+ChapterTime: 0:44.200(2600)
