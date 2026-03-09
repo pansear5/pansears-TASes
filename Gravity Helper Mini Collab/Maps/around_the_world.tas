@@ -1,4 +1,4 @@
-RecordCount: 1229
+RecordCount: 1253
 
 console load GravityHelperMiniCollab2022/1-Maps/alicequasar
    1
@@ -216,16 +216,16 @@ console load GravityHelperMiniCollab2022/1-Maps/alicequasar
    1
    1,R,J
   17,R,D
+# use these better?
   15,R,X
-  14,R
-# dash later could be faster
+  13,R
   15,R,X
    6,R
-  40,J
+  40
 
 #lvl_8
-  51,R,J
-   1,R,K
+  50,R
+   1,R,J
   26,R
   39,R,X
   23,R,D
@@ -253,4 +253,4 @@ console load GravityHelperMiniCollab2022/1-Maps/alicequasar
   20,R,X
  135
 
-ChapterTime: 0:53.975(3175)
+ChapterTime: 0:53.941(3173)
