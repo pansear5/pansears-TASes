@@ -1,4 +1,4 @@
-RecordCount: 2171
+RecordCount: 2261
 
 console load GravityHelperMiniCollab2022/1-Maps/nyan
    1
@@ -190,23 +190,21 @@ console load GravityHelperMiniCollab2022/1-Maps/nyan
   20,U,X
    4,L,U
   14,L,X
-   3,L,K
-   5,L
-   1,L,J
-   1,L
+   4,L,K
+   3,L,J
+   2,L
   15,L,D,Z
-   9
-  15,U
-   5,R,U
-   2,R
-   1
+   6
+   1,L
+  17,U
+   6,R,U
+   1,R
    3,U
+   1,R,U
    3
-# collect switch earlier to not get bottlenecked?
    1,R
   15,D,X
-   2
-  20,D
+  22,D
    2,L,D
   40
 
@@ -217,8 +215,8 @@ console load GravityHelperMiniCollab2022/1-Maps/nyan
    1,D
    2,L,D
    1,D
-   1,D
    2,D
+   1,L,D
   13,L,Z
    1,R,J
    1,R
@@ -247,6 +245,16 @@ console load GravityHelperMiniCollab2022/1-Maps/nyan
    8,R,D
    2,D
   47,R,Z
+### frame ties
+#    4,R,J
+#    1,R,K
+#    9,R
+#   22,L,U,X
+#    6,L,Z
+#    1,L,J
+#    1,L
+#   21,L,J
+###
    3
   13,L,U
    3,U
@@ -270,6 +278,9 @@ console load GravityHelperMiniCollab2022/1-Maps/nyan
    5,L
   14,L,U,X
   13,L,J,G
+
+# 167
+
   19,L
 # the keys cycle
   18
@@ -381,7 +392,7 @@ console load GravityHelperMiniCollab2022/1-Maps/nyan
    4,L,J
    2,L,K
   17,R,X
-### frame ties
+### +1f
 #    4,R,J
 #    3,R,K
 #    5,R
@@ -424,13 +435,15 @@ console load GravityHelperMiniCollab2022/1-Maps/nyan
 #    5,L,D,X
 ###
    4,R,J
-   4,R,K
+   3,R,K
    5,R
+   4,R,J
+  14,R
+  19,R,U,X
+   4,R,J
+   4,Z
    1,R,J
-  15,R
-  18,R,U,Z
-   7,R,U
-  13,R,X
+   8,R
   17,U,C
 ### think about it
 #    6,R
@@ -474,4 +487,4 @@ console load GravityHelperMiniCollab2022/1-Maps/nyan
   15,R,U,X
  135,R
 
-ChapterTime: 1:04.243(3779)
+ChapterTime: 1:04.209(3777)
