@@ -1,4 +1,4 @@
-RecordCount: 1764
+RecordCount: 1995
 
 console load GravityHelperMiniCollab2022/1-Maps/BossSauce
    1
@@ -39,32 +39,28 @@ console load GravityHelperMiniCollab2022/1-Maps/BossSauce
    8,R
    2
    1,R,J,G
-   4,R,K,G
-   6,R
-   2,R,J
-  12,R
-   3,R,J
-   4,R
-  10,L,Z
+   2,L
+   5,R
+   4,Z
    1,R,J
    1,J
-   1,R,J
-   4,R,J
-   4,R
-   1,J,G
+   7,R,J
+   1,R
+   2,R,J
+   6,R
+   1,R,J,G
   14
-   6,D
-  17,R,D
+  10,D
+  13,R,D
   13,R
   12,R,J,G
   17,R,K,G
-   5,K
+   6,K
   10
    1,R
+   8
   10,R
-   6
-#weird
-   6,L,Z
+   4,Z
    1,R,J
    3,R
    1,R,J
@@ -99,41 +95,56 @@ console load GravityHelperMiniCollab2022/1-Maps/BossSauce
    1,R,J
    5,R
    1,R,J
-  18,R,D
-  16,R
-   1,R
-   3,R
-   2,R
-   1,R
-   1,R
-   5,R
+###  +1f
+#   18,R,D
+#   29,R
+#   15,L,D,X
+#    1,L
+#    4,L,J
+#   10,R,X
+#   25,L,J
+#    1,J
+#   15,U,X
+#    2,R
+#   13,L,J
+#    2,J
+#    2,R,J
+#    1,J
+#    1,R,J
+#    1,K
+#    9,R,K
+#    1
+#    4,R
+#    1,R,J
+#    1,R,K,G
+#    1,R,J,G
+#    5,R
+#    2,R,J
+#    8,R
+###
+   6,R,J
+  15,R
+  24,R
+   4
   15,L,D,X
-   1,L
-   2,L,J
-   2,L,J
-  10,R,X
-  25,L,J
-   1,J
+   2,L
+  29,L,J
   15,U,X
-   2,R
-  13,L,J
-   2,J
-   2,R,J
-   1,J
-   1,R,J
-   1,K
-   9,R,K
-   1
-   4,R
-   1,R,J
+   4
+   1,R
+  21,R,J
    1,R,K,G
+   2,R,K
+   2,L,K
+   2,K
+   5,R,K
    1,R,J,G
+   2,R,K,G
    5,R
-   2,R,J
-   8,R
+   3,R,J
+   9,R
   10,R,Z
-   4,R,J
-   1,R,J
+   5,R,J
   13,R,D,X
   40
 
@@ -227,6 +238,7 @@ console load GravityHelperMiniCollab2022/1-Maps/BossSauce
   14,R,D,X
   20,R
   18,R,X
+# probably slow
   10,R,Z
   10,R,J
    4,R
@@ -318,8 +330,7 @@ console load GravityHelperMiniCollab2022/1-Maps/BossSauce
    1,R
    1
    1,J
-  24,R
-   5,R
+  29,R
    9,R,X
    4,R,J,G
    2,R,K,G
@@ -340,14 +351,13 @@ console load GravityHelperMiniCollab2022/1-Maps/BossSauce
 #lvl_a-08
    5,R
    4,R,J
-   1,R,K,G
-   3,R
-  11,R
+   4,R,K,G
+   6,R
+   3,R,U
   15,R,X
-  10,R
-# can wait 6
-   7
-  10,L,Z
+  14,R
+   4
+   9,L,Z
    1,R,J
    7,R
   18,R,J
@@ -379,6 +389,7 @@ console load GravityHelperMiniCollab2022/1-Maps/BossSauce
    1,J
    2,L,J
    4,L,U,J
+# slowwww
    1,J,G
    2,J
    1,J,G
@@ -461,4 +472,4 @@ console load GravityHelperMiniCollab2022/1-Maps/BossSauce
   14,R,U,X
  135
 
-ChapterTime: 0:46.308(2724)
+ChapterTime: 0:45.883(2699)
