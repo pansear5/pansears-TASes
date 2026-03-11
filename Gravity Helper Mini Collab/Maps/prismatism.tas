@@ -1,4 +1,4 @@
-RecordCount: 815
+RecordCount: 847
 
 console load GravityHelperMiniCollab2022/1-Maps/pansear
    1
@@ -121,16 +121,16 @@ console load GravityHelperMiniCollab2022/1-Maps/pansear
   12,R
    1,R,J
   53,R
-   6,R
+   5,R
    1,R,J
-   3,R,U
+   4,R
   40
 
 #lvl_tall 2
   15,R,X
-   1,R
+   2,R
   18,R,C
-  17,R,U
+  16,R,U
    1,R
    1,R,J
   14,R,D
@@ -139,22 +139,25 @@ console load GravityHelperMiniCollab2022/1-Maps/pansear
    6,R,U
    7,R
    1,R,J
-   9,R
+   6,R
+   2
+   1,R
    1,R,J
    3,R
    1,R,U
-   7,L,U
   10,L,U
-   6,L
+   1,L
+  12,L,U
    1,L
    1,L,J
    5,L,D
-   2,L
-   1,J
-   8,L,U
+   1,L
    1,L,J
-  11,L
-   2,L
+   3,L
+   2,L,U
+   3,L
+   1,L,J
+  13,L
    1,L,J
   11,L
    5,L,U
@@ -163,11 +166,10 @@ console load GravityHelperMiniCollab2022/1-Maps/pansear
   15,R,Z
    3,R
   25,L,U
-   3,L,U
-   4,L,U
-  53,L
+   7,L,U
+  51,L
   15,L,X
-  35,L
+  37,L
    1,L,J
    3,L,D
   40
@@ -241,4 +243,4 @@ console load GravityHelperMiniCollab2022/1-Maps/pansear
    4,C
  135,R,D
 
-ChapterTime: 0:44.200(2600)
+ChapterTime: 0:44.183(2599)
