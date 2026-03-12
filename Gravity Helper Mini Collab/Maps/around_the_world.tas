@@ -1,4 +1,4 @@
-RecordCount: 1349
+RecordCount: 1372
 
 console load GravityHelperMiniCollab2022/1-Maps/alicequasar
    1
@@ -165,16 +165,18 @@ console load GravityHelperMiniCollab2022/1-Maps/alicequasar
   13,R
   21,L
    2,L,D
-   8,L,U
+   9,U
   15,R,D,X
-  18,R
+  15,R
    1,R,J
    4,R,D
-  15,R,X
-  27,R,D
 # probably a way to use these beter
   15,R,X
-   9,R
+  27,R,D
+   1,R,D
+# slowww but next room is impossible to resync </3
+  15,R,X
+   7,R
   15,R,X
    1,R
   40
@@ -281,4 +283,4 @@ console load GravityHelperMiniCollab2022/1-Maps/alicequasar
   20,R,X
  135
 
-ChapterTime: 0:53.907(3171)
+ChapterTime: 0:53.856(3168)
