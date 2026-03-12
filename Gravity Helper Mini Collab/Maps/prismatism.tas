@@ -1,4 +1,4 @@
-RecordCount: 847
+RecordCount: 1036
 
 console load GravityHelperMiniCollab2022/1-Maps/pansear
    1
@@ -74,54 +74,95 @@ console load GravityHelperMiniCollab2022/1-Maps/pansear
   15,R,X
   19,R,D
   15,R,Z
-   9,R
+  10,R
    1,R,J
-  30,R
+  29,R
   15,R,X
   17,R
    1,R,J
   15,R,X
   12,R
    1,R,J
-  43,R
-   2,R
+  45,R
    1,R,J
   40
 
 #lvl_tall
+### +15f but it would be sooo cool
+#   15,R,D,X
+#    1,R
+#    1,R,D
+#   18,R,C
+#   19,R
+#    1,R,J
+#   14,R,U
+#   17,U
+#    1,R,J
+#    7,D
+#    2
+#    1,R
+#    1,R,D
+#    2,R
+#   15,U,Z
+#    3,R
+#    6,L
+#    1
+#   15,U,X
+#    3,R
+#   13
+#    6,D
+#    1
+#    1,L
+#    1,L,J
+#    1,L,U
+#    5,U
+#    7,L,U
+#    6,U
+#    2
+#   19,R
+#   15,R,D,Z
+#   48,R
+#    1,R,J
+#   27,R
+#    1,R,J
+#   13,R,U
+#   15,R,X
+#    9,R
+#    1,R,J
+#  350,R
+###
   15,R,D,X
    1,R
    1,R,D
   18,R,C
   19,R
-# clip through the tall part with spikes? probably impossible
    1,R,J
    5,R
-  23
-  78
-   6,R
-  33,U
-   7,R,U
-   1,U
+ 100
+   1,J
+   1,K
+  20,U
+   6,R,U
+   6,U
+   6,R,U
+# not optimal i think
   15,R,X
    5,R
   15,R,U,X
-   5,R
-   3,R,U
-   4,R
+   3,R
+  10,R,U
    1,R
    1,R,J
   19,R,D
    1,R
    1,R,J
-   3,R
+   3,R,U
    4,R,U
    2,R
   15,R,X
-  12,R
+  11,R
    1,R,J
-  53,R
-   5,R
+  60,R
    1,R,J
    4,R
   40
@@ -243,4 +284,4 @@ console load GravityHelperMiniCollab2022/1-Maps/pansear
    4,C
  135,R,D
 
-ChapterTime: 0:44.183(2599)
+ChapterTime: 0:44.081(2593)
