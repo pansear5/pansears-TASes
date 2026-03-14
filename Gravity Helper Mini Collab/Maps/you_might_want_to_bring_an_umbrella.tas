@@ -1,4 +1,4 @@
-RecordCount: 982
+RecordCount: 1096
 
 console load GravityHelperMiniCollab2022/1-Maps/ABuffZucchini
    1
@@ -7,45 +7,42 @@ console load GravityHelperMiniCollab2022/1-Maps/ABuffZucchini
   36
 
 #lvl_01
-  42,U
-   6,R,U
-   3,R,U
-  10,R
-   6,R,D,X
+  51,U
+  10,L
+   6,L,D,X
    1,R,J
-   2,R
-   2,R,J
-   1,R,K,G
-   9,R
-   1,R,J
-  13,R,D,X
-   1,R,J
+   7,R
+   3,R,J
+   5,R,D,X
+   1,R,J,G
+  11,R
+   4,R,J
+   9,R,U,Z
   40
 
 #lvl_02
-   7,R
-   1,R,J
-   2,R
-  15,R,U,X
-  20,R
-   5
-  14,D
-  22
-  20,R
-  12,R,U
-   9,U,X
-   1,J
-   1,L,K,G
-  14,R,K
-   7,J,G
-   1,L,J
+   5,R,U,Z
+   1,L,J,G
    3,R,J
+   5,R
+   1,J
+# fall faster here
   15,R
-  14
-  15,L
-   1,J,G
-  17
-  25,J,G
+   3,D
+   5
+  10,L,Z
+   2,J,G
+   1,K,G
+  11,J,G
+   1,R,J
+   5,R
+  11
+   7,J
+  18,L
+  22,L,G
+  15,D
+   5,L,U,X
+  19,R
   15,R,X
   15,R,D
    6,D
@@ -329,4 +326,4 @@ console load GravityHelperMiniCollab2022/1-Maps/ABuffZucchini
   12,U,X
  135
 
-ChapterTime: 0:46.274(2722)
+ChapterTime: 0:45.220(2660)
