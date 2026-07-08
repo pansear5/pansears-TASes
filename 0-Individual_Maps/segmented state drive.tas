@@ -1,7 +1,7 @@
 # Clover Birthday Collab
 # https://gamebanana.com/mods/691061
 
-RecordCount: 1995
+RecordCount: 2307
 
 console load CloverBC26/1-CBC/pawn_b4
    1
@@ -63,13 +63,6 @@ console load CloverBC26/1-CBC/pawn_b4
    4,R
   15,R,X
   14,R,D,C
-#   16,R,J
-#    3,R
-#    1
-#    1,R
-#   15,R,D,X
-#    2,R
-#   50,R,J,G
   14,R,J
   15,R
   15,R,X
@@ -120,6 +113,7 @@ console load CloverBC26/1-CBC/pawn_b4
   15,U,X
    3,R
   14,R,J
+# no way this is fast
   15,U,X
   25,L
   14,R,D,X
@@ -142,28 +136,18 @@ console load CloverBC26/1-CBC/pawn_b4
 
 #lvl_A_03
    5,R,D,X
-   1,R,J
-   5,R
-  10
-  13,L,Z
-   1,R,J
-   1,R
-  17,R,D,X
+   2,R,J
+   2,R
+  22,R,D,X
    7,R,J
   15,R,D,X
-   2,R
-  11,R,J
-   5,R
-  14,R,J
-   7,R
+  28,R,J
   15,R,X
-   4,R,G
-  10,J,G
-  20
-
-  11,K
+  26,R
+  10,R,J,G
+  30,K
   14,U,X
-  11
+  10
   15,L,C
    4,L
   12,R,Z
@@ -304,7 +288,6 @@ console load CloverBC26/1-CBC/pawn_b4
   15,U,C
    9,L,D,X
    1,R,J
-***S
    7,R
   13,R,J
   13,R,U,Z
@@ -323,7 +306,6 @@ console load CloverBC26/1-CBC/pawn_b4
    1,K,G
   35,R,D
   15,R,U,X
-***
   18
   15,U,C
   15,U,X
@@ -356,45 +338,55 @@ console load CloverBC26/1-CBC/pawn_b4
    7,L
   24,L,J
   14,L,X
-  10,L,D,C
-  17,L,J
-  14,L,X
-  22,R,J
-  16,U,X
-  12,R,K,G
-   2,J,G
-  10,K,G
-   1,L,K
-   1,R,K
-   4,J,G
+  15,L,D,C
+  12,J
    8,L,J
-  10,K,G
-   1,R,K
-   1,L,K
-   7,J,G
-   6,R,J
-   4,K,G
-   8,J
+  21,U,X
+  12,R,J,G
+  12,K,G
+  10,J,G
+   1,L,J
+   1,R,J
+   2,K,G
+  10,L,K
+  10,J,G
+   1,R,J
+   1,L,J
+   2,K,G
+   9,R,K
+   9,J
+###
+#   14,R,X
+#   16,R,J
+#   17,R,U,X
+#    1,R,J,G
+#    3,L,J
+#    2,R,J
+#    1,R,K,G
+#   10,R,J,G
+#    5,R
+#   21,R,J
+#    4,D
+#   10,R,X
+#    5,R,J
+#    1,R
+#   14,R,U,Z
+#   50,R,J,G
+###
+
   14,R,X
   15,R,J
    6,J
-   1,R,K,G
-   3,L,K
-   3,R,K
-   3,R,J,G
-   1,J
-   3,R,J
-   1,J
-   8,R,J
-   7,R,K,G
-   3,R,K
-  23,R
+   7,K,G
+   9,R,J,G
+  15,R,U,X
+  26,R
+   2
   10,R,X
-   3,R,J
-   6,R
+   5,R,J
+   1,R
   14,R,U,Z
-   1,R,J,G
-   3,R
+   4,R,J,G
   15,D,X
   10,R,D,C
    1,R,J
@@ -422,14 +414,16 @@ console load CloverBC26/1-CBC/pawn_b4
    3,R,J,G
   16,R
    7,L,J,G
-   5,J
-  36,R,K
+   4,J
+   2
+  35,R,K
    1
   15,R,U,Z
    9
    9,R,J
-   9,R
-   6,R,Z
+   7,R
+# slow for easy resync
+   7,R,Z
    1,R,J
    7,R
    1,R,J
@@ -439,15 +433,18 @@ console load CloverBC26/1-CBC/pawn_b4
 #lvl_A_07
    2,R,D,X
    1,R,J
-   7,R
+   3,R
+   1,R,J
+   3,R
    3,R,J
-   3,R,K,G
+   2,R,K,G
    7,R,J,G
-   5,R,K,G
-  11,U,X
-  32,R,J
+   1,R,K,G
+   6,K
+   9,U,X
+  30,R,J
   15,R,D,X
-  10,R
+   9,R
   15,R,X
   14,D
    3,L,D
@@ -543,16 +540,12 @@ console load CloverBC26/1-CBC/pawn_b4
    1,R,J
    3,R
   10,R,D,X
-  11,D,C
-  14,R,J
-   2,J
-   1,R,J
-  15,R,Z
-   4
+  15,R,D,C
+   1,R
+  23,R,U,Z
+   2
    1,L,J,G
-   5,L
-   7,L,J
-   7,L,K,G
+   9,L,K,G
   12,L,U,X
   15,L,U,C
   10,U,X
@@ -587,14 +580,14 @@ console load CloverBC26/1-CBC/pawn_b4
   30,R
   14,R,X
    8,R,J,G
-   5,R
-   1,R,J
    6,R
-   4,Z
-   1,R,J
-   7,R
-   7,R,J
-  10,U,X
+   2,R,J
+   1,R
+   2,R,J
+   1,R
+  10,R,X
+   5,R,J
+  13,R,U,X
   13,L,U,C
   14,R,U,X
   15,L,U,C
@@ -722,14 +715,61 @@ console load CloverBC26/1-CBC/pawn_b4
   14,L,D,X
    8,L,J
    5,L
+### +6f
+#   10,L,D
+#   15,R,D,X
+#    8,D
+#    3,R,D
+#   10,L,D,X
+#   19,R,J
+#   13,R
+#    1,J,G
+#    3,R,J
+#   15,R,Z
+#   10,R
+#   10,L,D,X
+#    2,R,J
+#    9,R
+#   12,L,X
+#    7,L,J,G
+#   15,U,X
+#   10,R,U,C
+#    1,R,J,G
+#    7,R
+#    1
+#    6,R,Z
+#    1,R,J
+#    7,R
+#    1,R,J
+#    8,R,D,X
+#    1,R,J
+#    3,R,K,G
+#    4,R
+#    2,R,J
+#    7,R
+#    3,R,J
+#    7,R
+#    1,R,J
+#   14,R
+#    9,R,J
+#    5,R,J
+#   15,U,Z
+#    1,L,J,G
+#    7,L
+#    4,Z
+#    1,L,J
+#    4,L
+###
   10,L,D
   15,R,D,X
-  11,D
+   8,D
+   3,D
   10,L,D,X
-   5,R,J
+   1,R,J
+   4,R,J
    9,R,D,X
-  15,R,J,G
-   9,R
+  10,R,J,G
+  14,R
   11,R,D,X
    1,R,J
    1,R
@@ -755,16 +795,21 @@ console load CloverBC26/1-CBC/pawn_b4
    1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
-  11,R,J
-  12,U,X
-   5,R,J
-   1,L,K,G
-   6,L,J,G
+  11,R,D,X
+   1,R,J
+   7,R
+   7,R,J
+   2,R
+   2,R,K,G
+   1,R
+  15,U,X
+   1,L,J,G
+   1
+   1,J,G
    7,L
    4,Z
    1,L,J
-   4,L
+   3,L
    6
    4,Z
    1,R,J
@@ -772,7 +817,8 @@ console load CloverBC26/1-CBC/pawn_b4
    1,R,J
    9,R
   27,L,D,X
-  65
+  63
+   2,L
    1,J
    8
    2,J
@@ -987,4 +1033,4 @@ console load CloverBC26/1-CBC/pawn_b4
   12,L,Z
  135
 
-ChapterTime: 2:12.753(7809)
+ChapterTime: 2:11.835(7755)
