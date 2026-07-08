@@ -1,0 +1,139 @@
+# sunset_ispy
+# https://gamebanana.com/mods/651932
+
+RecordCount: 338
+
+console load sunsetquasar/ispy/map
+   1
+
+#Start
+  86
+
+#lvl_a_00
+  10,L,J
+   2,J
+  15,U,X
+   6,R
+   5,R,U
+
+  54,F,356
+  14,F,3
+  46,F,12.1
+  14,R
+  14,R,U,X
+  10,J,G
+   1,L,J
+  15,R,K,G
+   4,J,G
+   8,R,J
+   9,K,G
+   3
+   3,J,G
+   1,L,J
+
+   7,R
+   2,R
+   4,Z
+   2,R,J
+   2,R,K,G
+   8,R
+  40
+
+#lvl_a_01
+   1,S
+   1,D,J
+  69,O
+  10,U,X
+   6,R,U
+  52,U
+  12,F,340
+  14,F,314
+  17,U
+  15,R,U
+  20,R
+   1,G
+   1,J,G
+   2,L,K,G
+   3,L,J,G
+   8,J
+  16,U,X
+   1,L,U
+  11,L
+  49,F,245.5
+  20,L,Z
+   1,J,G
+   1,R,J
+   1,L,J
+   2,K,G
+   9,R,K
+  12,J,G
+   4,K,G
+   3,R,J,G
+   1,J
+   8,R,J
+   3,K,G
+
+   1,L,K
+   1,R,K
+   2,J,G
+  11,L,J
+  40
+
+#lvl_a_02
+   7,L
+   
+###
+   6,J,G
+   5,L,Z
+   1,L,J
+   7,L
+   3,L,J
+  12,F,275
+   7,L,U
+   7,U
+   6,R,U
+  27,R
+   5,R,U
+   3,U
+   2,R,U
+
+   6,L,U
+   1,L,U
+   1
+   4,R
+   
+   5,R,D
+
+   5,U
+   8,F,355
+   4,L,U
+  15,U,X
+  10,J,G
+   3,K,G
+   8,F,350
+  15,F,185
+  11,L
+
+  10,F,295.7
+  19,L
+   1,L,G
+
+   1,J,G
+   3,L,K
+   2,L,K
+   4
+   1
+   2
+   5,R,U,X
+  11,U
+  28,F,23
+   8,U
+  44,F,335
+   8,U
+  25,F,25
+  21,R
+  15,R,U,X
+  22,R
+   5,R,X
+  50
+
