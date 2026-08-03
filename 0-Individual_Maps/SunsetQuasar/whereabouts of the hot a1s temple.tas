@@ -1,7 +1,7 @@
 # SSC2026
 # https://gamebanana.com/mods/695378
 
-RecordCount: 1632
+RecordCount: 1849
 
 console load SSC2025/1-Easy/sunsetquasar
    1
@@ -13,6 +13,7 @@ console load SSC2025/1-Easy/sunsetquasar
    1,S
    1,D,J
   34,O
+
    4,Z
    2,R,J
    8,R
@@ -24,6 +25,20 @@ console load SSC2025/1-Easy/sunsetquasar
   49
 
 #lvl_intro2
+#    7,R,Z
+#    2,R,J
+#   12,R
+#    4,Z
+#    1,R,J
+#    7,R
+#    3,R,J
+#    2,R,K,G
+#   14,R,U,X
+#    3,R,J,G
+#   50,R
+
+
+
    4,Z
    2,R,J
    8,R
@@ -32,16 +47,15 @@ console load SSC2025/1-Easy/sunsetquasar
    1,R,J
    8,R
    1,R,J
+   1,R
   14,R,U,X
    2,R,J,G
-   1
-   1,J,G
    7,R
   12,R,J
    1,K,G
-   8,R,Z
-   1,R,J
-   7,R
+   5,R,Z
+   2,R,J
+   9,R
    1,N
   49
 
@@ -69,14 +83,8 @@ console load SSC2025/1-Easy/sunsetquasar
    4,Z
    1,R,J
    6,R
-#   24,L,D
-#   11,L,D,X
-#    1,R,J
-#    9,R
-#   12,R,U,X
-#    1,R,J,G
-#   50,R
   23,D
+# no way this is optimal
   15,R,Z
    1,L
    1,J,G
@@ -84,9 +92,11 @@ console load SSC2025/1-Easy/sunsetquasar
    4,R
    2,R,J
    4,R
-   5,Z
+   5,R,Z
    1,R,J
    5,R
+# 377
+
   40
 
 #lvl_a_00
@@ -162,6 +172,7 @@ console load SSC2025/1-Easy/sunsetquasar
    1,K,G
   13,L,K
   14,L,U,X
+
   11,J,G
    1
    8,K,G
@@ -182,6 +193,8 @@ console load SSC2025/1-Easy/sunsetquasar
    1,L
    3,L,J
   12,L,U,X
+# 900
+
   33
    5,L,J,G
    1,R,K,G
@@ -286,24 +299,38 @@ console load SSC2025/1-Easy/sunsetquasar
    2,D
   14,L,U,Z
   29,R,J,G
-   2,K
-   7,L,K
-   1,J
-  26,L,D
-  12,L,Z
+   1,K
+   6,L,K
+  21,L
+   4,L,D
+  14,L,Z
    1,L,J,G
-   5
-   3,L,J
+   4
    1,J
-   6,L
-   4,L
+   1,J
+   1,L,J
+   1,L
+   1,L
+   1,L
+#
+   1,L
+   3,L
+   1,L
+   1,L
+   3,L
   12,L,J,G
-   9,K,G
-   7,L
+   7,K,G
+   1,K
+   1,K,G
+   5
+   2,L
+
    4,Z
    1,L,J
-   7,L
-   3,L,J
+   6,L
+   4,L,J
+
+
    1,S
    1,D,J
   69,O
@@ -461,14 +488,16 @@ console load SSC2025/1-Easy/sunsetquasar
    9,L,J
   12,K,G
   12,J,G
-   8,K,G
-   5
+   5,K,G
+   7
   15,U,Z
-   5,R,J
+   6,R,J
+
   40
 
 #lvl_a_bomb2
-  10,R,J
+   1,J
+   9,R,J
    8,R,K,G
    6,R,Z
    1,R,J
@@ -597,19 +626,20 @@ console load SSC2025/1-Easy/sunsetquasar
    4,R
   18,R,D,X
    5,L,J
-  15,U,Z
-   5,R,J,G
-   7,R
-   3,R,J
-  15,U,X
-  12,R,J,G
-  11,K,G
+  14,U,Z
+   1,R
+   5,J,G
+   6,L
    1
-   1,J,G
+   3,J
+  15,U,X
+  16,R,J
+   1,R,K,G
    7,R
    4,Z
    5,R,J
    6,R
+
    1,N
 # Sauce3
   40
@@ -1066,11 +1096,10 @@ console load SSC2025/1-Easy/sunsetquasar
 #lvl_a_01b (1)
   13,L,J
   12,R,K,G
-   5,J,G
+   5,J
   10,R,X
-   8,J
-   3,J
-  20,U,X
+  15,J
+  14,U,X
   14,J
   40
 
@@ -1108,35 +1137,45 @@ console load SSC2025/1-Easy/sunsetquasar
   14,R,D,X
    1,R,J
    1,R
- 204
-# just go further left to get a real ultra etc
-   6,L
+ 132
+   6
+   6,L,Z
    1,L,J
-   8,L
-   2,L,J
-   5,L
-  14,L,Z
+   7,L
+   1,L,J
+  14,L,D,X
+   3,L,J
+   6,L,K,G
+   8,L,J,G
+  14,L,D,X
+   1,L,J
+   9,L,D,X
    1,R,J
-   6,R
-   1,R,J
-  14,R,D,X
-   1,R,J
+   9,R
+   6,R,J
    1,R,K,G
-   3,R,K
-  16,R,D,X
-   4,R
+   2,R
+   7,R,J,G
+   2,R
+  15,R,D,X
+   1,R,J
+  14,R
+   1,R,J
+  10,R,D,X
+   1,R,J
+   4,R,K,G
+  15,R,D,X
+   2,R
    1,N
   49
 
 #lvl_a_end0
-   4,Z
-   1,R,J
-  10,R
-  19
+  31,R
    1,S
    1,D,J
   34
   64
+
  135
 
-ChapterTime: 1:44.550(6150)
+ChapterTime: 1:44.329(6137)
