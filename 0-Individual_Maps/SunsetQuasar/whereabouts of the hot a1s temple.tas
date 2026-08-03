@@ -1,7 +1,7 @@
 # SSC2026
 # https://gamebanana.com/mods/695378
 
-RecordCount: 1272
+RecordCount: 1632
 
 console load SSC2025/1-Easy/sunsetquasar
    1
@@ -56,7 +56,6 @@ console load SSC2025/1-Easy/sunsetquasar
    1,R,J
    1,R,J
   10,R,U,J,Z
-
    1,S
    1,D,J
   34,J
@@ -66,12 +65,10 @@ console load SSC2025/1-Easy/sunsetquasar
    4,R,J,G
    1
    2,R,J,G
-
    7,R
    4,Z
    1,R,J
    6,R
-
 #   24,L,D
 #   11,L,D,X
 #    1,R,J
@@ -79,8 +76,6 @@ console load SSC2025/1-Easy/sunsetquasar
 #   12,R,U,X
 #    1,R,J,G
 #   50,R
-
-
   23,D
   15,R,Z
    1,L
@@ -110,7 +105,6 @@ console load SSC2025/1-Easy/sunsetquasar
   40
 
 #lvl_a_01 (0)
-
    4,R,D
    1,R,J
    1,R
@@ -165,9 +159,7 @@ console load SSC2025/1-Easy/sunsetquasar
    1,L,J
    3,L
   13,L,J
-
    1,K,G
-
   13,L,K
   14,L,U,X
   11,J,G
@@ -203,7 +195,6 @@ console load SSC2025/1-Easy/sunsetquasar
    5,R,D,X
    1,L,J
    7,L
-
    2,L,J
   10,L,D,X
    1,L,J
@@ -223,7 +214,6 @@ console load SSC2025/1-Easy/sunsetquasar
   13,U,X
    1,J
   96
-
   10,R,D,X
    1,R,J
    2,R
@@ -263,7 +253,6 @@ console load SSC2025/1-Easy/sunsetquasar
    6,D,J
   12,K
    5,R,J,G
-
    5,R,Z
    1,L,J
    4,L
@@ -279,7 +268,6 @@ console load SSC2025/1-Easy/sunsetquasar
    1,L
    1,L,J
    3,L
-
   11,L,U,Z
    2,L,J,G
    5,L
@@ -328,7 +316,6 @@ console load SSC2025/1-Easy/sunsetquasar
    2,R,J
   11,R
    5,L,D
-
   14,L,D,X
    1,R,J
   15,L,D
@@ -362,9 +349,7 @@ console load SSC2025/1-Easy/sunsetquasar
    1,R,J
    1
   15,D,X
-
   15,D,C
-
   15,D,X
    1,R,J
   18,R,D
@@ -518,7 +503,6 @@ console load SSC2025/1-Easy/sunsetquasar
    1,D
    1,F,180
    1,R
-
    1,F,90
    1,R
    1,F,90
@@ -589,37 +573,37 @@ console load SSC2025/1-Easy/sunsetquasar
   49
 
 #lvl_a_02 (3)
-##Maybe slower  IDK  opens a keydoor early
+##skips door
 #    4,Z
 #    1,L,J
 #    7,L
 #    6,L,J
-#    1
-#   15,L,D,X
-#    6
-#   10,L,D,X
-#    2,R,J
-#    4,R
-#   18,R,D,X
-#    5,L,J
 #   15,U,Z
-#    5,R,J,G
-#    7,R
-#    3,R,J
-#   15,U,X
 #   12,R,J,G
-#   11,K,G
+#    1,K,G
 #    1
 #    1,J,G
-#   50,R
+#    7,R
 ##
    4,Z
    1,L,J
    7,L
    6,L,J
+   1
+  15,L,D,X
+   6
+  10,L,D,X
+   2,R,J
+   4,R
+  18,R,D,X
+   5,L,J
   15,U,Z
+   5,R,J,G
+   7,R
+   3,R,J
+  15,U,X
   12,R,J,G
-   1,K,G
+  11,K,G
    1
    1,J,G
    7,R
@@ -688,11 +672,9 @@ console load SSC2025/1-Easy/sunsetquasar
    1,F,90
    1,R
    1,D
-
    1,R
    1,D
    1,L
-
    1,U
    1,L
    1,D
@@ -700,7 +682,6 @@ console load SSC2025/1-Easy/sunsetquasar
    1,D
    1,F,180
    1,D
-#
    1,L
    1,D
    1,L
@@ -766,7 +747,6 @@ console load SSC2025/1-Easy/sunsetquasar
   15,D,X
    3,L,D
   15,D,X
-
    5,R,Z
    1,L,J
   10,L
@@ -784,11 +764,8 @@ console load SSC2025/1-Easy/sunsetquasar
 #lvl_a_07
    7,R,D,X
   13,R,J
-
   11,U,X
-  31
-
-   5
+  36
    4,R,J
    1,K
   14,R,K
@@ -804,9 +781,7 @@ console load SSC2025/1-Easy/sunsetquasar
    1,D
    4
    1,R,D
-   1,D
-
-   2,D
+   3,D
    3,L,D
    3,R,D
    2,R,D
@@ -837,7 +812,6 @@ console load SSC2025/1-Easy/sunsetquasar
   40
 
 #lvl_a_02 (5)
-***S
    4,L
   12,L,U,Z
    1,R,J,G
@@ -857,7 +831,6 @@ console load SSC2025/1-Easy/sunsetquasar
   11,L
    3,L,D
    4,R,D
-
   21,L,D
   14,L,D,X
    2,L,J
@@ -865,25 +838,26 @@ console load SSC2025/1-Easy/sunsetquasar
    2,R,J
    1,R
    2,R
-  20,R,D,X
-   4,L,D
-   3,D
+  15,R,D,X
+  12,D
    4,Z
-   6,L,J
    1,L,J
-   4,L,K,G
-   1,L,J,G
    7,L
-  15,L,J
-   9,L
+   3,L,J
+   1,L
+   3,L,K,G
+   1,L
+   1,L,J,G
+   6,L
+  21,L,J
+   7,L
   15,D,X
    1,L,J
-   2,L
-  10,D,X
+   3,L
+  11,D,X
   40
 
 #lvl_a_01 (1)
-***S
    9,L,D
    7,R,D
    5,L,U,X
@@ -894,60 +868,275 @@ console load SSC2025/1-Easy/sunsetquasar
   16,D
    5,R,U,X
    1,J,G
-  10
-   1,L
-   5
-   8
-
+  16
    5,R,D,X
    1,R,J
-***
    9
    5,L,D,X
    1,R,J
    9
    5,R,U,X
    1,J,G
-***
   16
    5,R,U,X
    1,J,G
   10
    1,L
    5
-***
    5,R,D,X
    1,L,J
-   9,L
+   8,L
+   1,L
   12,L,D,X
-
-
-   5,R,D,X
-   1,L,J
-   9,L
-  12,L,D,X
+   3,L
+   5
+  10,L,D,X
+   4,R,J
+   4,R,K,G
+  10,R,J,G
+  15,R,D,X
+   1,R,D,J
+   1,R,K
+   4,R
    1,R,J
-  12,R
-  10,R,U,Z
-   1,J,G
-  25,R,D
-   5,R,U,X
-   1,J,G
-  16
-   5,R,D,X
-   1,L,J
-   7,L
-   2
-   5,L,D,X
+  19,D,X
+  40
 
-# 4402
-
- 500
-
-   5,L,D
+#lvl_a_01b (0)
+  14,D
+   5,L,Z
+   1,R,J
+   6
+   1,R
+   1
+   1,R
    5,L,U,X
+   1,R,J,G
+  16,R,D
+   6,R,D,X
+   1,L,J
+   7
+   1,L
+  10,L,D,X
+   8,L,J
+   5,U,X
+   1,L,J
+  18,L,D
+  15,D,C
+   1,N
+# Sauce5
+  41
+   1,U
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,R
+   1,N,F,90
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,R
+   1,D
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,U
+   1,L
+   1,D
+   1,F,180
+   1,D
+   7
+# End
+   1,R
+   1,D
+   5,U,X
+   1,R,J
+   6,R,K,G
+   5,R
+   1,R,J
+   2,R
+   2,R
+   1,R,J
+   7,R,U,X
+   1,R,J,G
+   8
+   7,L
+   3
+   6,R,U,X
    1,J
-  50,D
+   3
+  14
+   5,R,D,X
+   1,L,J
+   8,L
+   1,L,J
+  15,L,D,X
+   1
+   7
+  12,R
+   6,R,J
+   2,J
+  14,R,Z
+   1,L,J
+  15,L,D,X
+  15,D,C
+  10,R
+   1,N
+  49
 
-# 299
-  50,L,D
+#lvl_a_glyph1
+   4,Z
+   1,L,J
+  15,L
+   1,N
+# Sauce6
+  40
+   1,N
+   1,R
+   1,D
+   1,R
+   1,D
+   1,F,180
+   1,D
+   1,R
+   1,U
+   1,F,0
+   1,R
+   1,F,90
+   1,U
+   1,L
+   1,F,270
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,R
+   1,U
+   1,R
+   1,U
+   1,L
+   1,F,270
+   1,U
+   1,L
+   1,D
+   1,F,180
+   1,R
+   1,D
+   4,L,Z
+   1,J,F,270
+#End
+   7,L
+  11,L,J
+   1,K,G
+   7
+  12,R,Z
+   1,L,J
+   6,L
+   1
+   2,L,J
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+  18,L,D
+   1,L,J
+  14,L,D
+   4,Z
+   1,R,J
+   6,R
+   1,R,J
+   3,R
+  18,R,D,X
+   6,R,J
+  10,R
+   1,N
+  49
+
+#lvl_a_01b (1)
+  13,L,J
+  12,R,K,G
+   5,J,G
+  10,R,X
+   8,J
+   3,J
+  20,U,X
+  14,J
+  40
+
+#lvl_a_01 (2)
+  11
+   3,J
+   1,R,J
+   4,R,K,G
+   5,R,Z
+   7,R,J
+   2,R,K,G
+  12,R,J,G
+   5
+   2,J
+   1
+  15,U,X
+  16,R,J
+  40
+
+#lvl_a_02 (6)
+   4
+   1,J
+   4,L,J
+   2,J
+   5,R,Z
+  11,R,J
+   4,R
+  12,R,J
+   3,K,G
+# bad
+   5,R,Z
+   1,R,J
+  15,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   1,R
+ 204
+# just go further left to get a real ultra etc
+   6,L
+   1,L,J
+   8,L
+   2,L,J
+   5,L
+  14,L,Z
+   1,R,J
+   6,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   1,R,K,G
+   3,R,K
+  16,R,D,X
+   4,R
+   1,N
+  49
+
+#lvl_a_end0
+   4,Z
+   1,R,J
+  10,R
+  19
+   1,S
+   1,D,J
+  34
+  64
+ 135
+
+ChapterTime: 1:44.550(6150)
