@@ -1,13 +1,14 @@
 # SSC2026
 # https://gamebanana.com/mods/695378
 
-RecordCount: 1849
+RecordCount: 1974
 
 console load SSC2025/1-Easy/sunsetquasar
    1
 
 #Start
- 190
+ 110
+
 
 #lvl_intro
    1,S
@@ -25,38 +26,19 @@ console load SSC2025/1-Easy/sunsetquasar
   49
 
 #lvl_intro2
-#    7,R,Z
-#    2,R,J
-#   12,R
-#    4,Z
-#    1,R,J
-#    7,R
-#    3,R,J
-#    2,R,K,G
-#   14,R,U,X
-#    3,R,J,G
-#   50,R
-
-
-
-   4,Z
-   2,R,J
-   8,R
+  10,R,Z
    1,R,J
-  10,R,D,X
-   1,R,J
-   8,R
-   1,R,J
-   1,R
-  14,R,U,X
-   2,R,J,G
    7,R
-  12,R,J
-   1,K,G
-   5,R,Z
+  22,R,J
+  15,R,U,X
+
+   3,R,K,G
+   7,R
+   4,Z
    2,R,J
    9,R
    1,N
+
   49
 
 #lvl_a_m1
@@ -72,7 +54,7 @@ console load SSC2025/1-Easy/sunsetquasar
   10,R,U,J,Z
    1,S
    1,D,J
-  34,J
+  34
    3,R,J
    1,L,K,G
    5,R,K
@@ -112,6 +94,10 @@ console load SSC2025/1-Easy/sunsetquasar
    2,R
   15,R,D,X
    3,R,D
+
+
+# 483
+
   40
 
 #lvl_a_01 (0)
@@ -393,6 +379,10 @@ console load SSC2025/1-Easy/sunsetquasar
   15,D,X
   15,D,C
    5,R,Z
+
+
+# 159
+
    1,R,J
   22,L
   20
@@ -557,6 +547,8 @@ console load SSC2025/1-Easy/sunsetquasar
    1,L
    1,F,270
   19
+# End
+
   12,R,J
    1,K
    4,L,K
@@ -565,25 +557,26 @@ console load SSC2025/1-Easy/sunsetquasar
    1,R,J
    7,R
    1,R,D,J
-   1,R,K
-   2,R
-   3,R,J
-   7,R
-# (deathwarp is slower sorry)
-  10,R,Z
-   7,L,J
+   3,R,K
+   3,R
+   5,R,J
+  12,R,Z
+   3,L,J
+   1,J
+   3,L,J
   14,L,D,X
    5,L,J
    3,L
    1,L,J
-   6,L,D
-  29,R,D
+   9,L,D
+  26,R,D
   40
 
 #lvl_a_bomb1 (1)
-   5,D
-   7,L,D
+   2,R,D
    4,D
+   7,L,D
+   3,D
   14,L,D,X
    5,R,J
   15,R,D,X
@@ -954,6 +947,7 @@ console load SSC2025/1-Easy/sunsetquasar
   18,L,D
   15,D,C
    1,N
+
 # Sauce5
   41
    1,U
@@ -1178,4 +1172,4 @@ console load SSC2025/1-Easy/sunsetquasar
 
  135
 
-ChapterTime: 1:44.329(6137)
+ChapterTime: 1:44.244(6132)
